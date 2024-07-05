@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -162.56 99.06 0)
+			(at -19.05 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51,7 +51,7 @@
 		)
 		(symbol "VT82C694X_0_0"
 			(pin input line
-				(at -158.75 95.25 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -69,7 +69,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 72.39 0)
+				(at -62.23 -49.53 0)
 				(length 2.54)
 				(name "HD54#"
 					(effects
@@ -87,7 +87,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 69.85 0)
+				(at -62.23 -36.83 0)
 				(length 2.54)
 				(name "HD49#"
 					(effects
@@ -105,7 +105,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 67.31 0)
+				(at -62.23 -31.75 0)
 				(length 2.54)
 				(name "HD47#"
 					(effects
@@ -123,7 +123,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 64.77 0)
+				(at -62.23 -13.97 0)
 				(length 2.54)
 				(name "HD40#"
 					(effects
@@ -141,7 +141,7 @@
 				)
 			)
 			(pin power_in line
-				(at -158.75 62.23 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -159,7 +159,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 59.69 0)
+				(at -62.23 3.81 0)
 				(length 2.54)
 				(name "HD33#"
 					(effects
@@ -177,7 +177,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 57.15 0)
+				(at -62.23 8.89 0)
 				(length 2.54)
 				(name "HD31#"
 					(effects
@@ -195,7 +195,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 54.61 0)
+				(at -62.23 19.05 0)
 				(length 2.54)
 				(name "HD27#"
 					(effects
@@ -213,7 +213,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 52.07 0)
+				(at -62.23 39.37 0)
 				(length 2.54)
 				(name "HD19#"
 					(effects
@@ -231,7 +231,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 49.53 0)
+				(at -62.23 36.83 0)
 				(length 2.54)
 				(name "HD20#"
 					(effects
@@ -249,7 +249,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 92.71 0)
+				(at -110.49 36.83 0)
 				(length 2.54)
 				(name "AD20"
 					(effects
@@ -267,7 +267,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 46.99 0)
+				(at -62.23 62.23 0)
 				(length 2.54)
 				(name "HD10#"
 					(effects
@@ -285,7 +285,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 44.45 0)
+				(at -62.23 72.39 0)
 				(length 2.54)
 				(name "HD6#"
 					(effects
@@ -303,7 +303,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 41.91 0)
+				(at -62.23 80.01 0)
 				(length 2.54)
 				(name "HD3#"
 					(effects
@@ -321,7 +321,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 39.37 0)
+				(at -88.9 13.97 0)
 				(length 2.54)
 				(name "HA29#"
 					(effects
@@ -339,7 +339,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 36.83 0)
+				(at -88.9 26.67 0)
 				(length 2.54)
 				(name "HA24#"
 					(effects
@@ -357,7 +357,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 34.29 0)
+				(at -88.9 31.75 0)
 				(length 2.54)
 				(name "HA22#"
 					(effects
@@ -375,7 +375,7 @@
 				)
 			)
 			(pin power_in line
-				(at -158.75 31.75 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -393,7 +393,7 @@
 				)
 			)
 			(pin input line
-				(at -158.75 90.17 0)
+				(at 171.45 87.63 0)
 				(length 2.54)
 				(name "REQ0#"
 					(effects
@@ -411,7 +411,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 87.63 0)
+				(at -110.49 24.13 0)
 				(length 2.54)
 				(name "AD25"
 					(effects
@@ -429,7 +429,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 85.09 0)
+				(at -110.49 13.97 0)
 				(length 2.54)
 				(name "AD29"
 					(effects
@@ -447,7 +447,7 @@
 				)
 			)
 			(pin input line
-				(at -158.75 82.55 0)
+				(at -105.41 -127 0)
 				(length 2.54)
 				(name "RESET#"
 					(effects
@@ -465,7 +465,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 80.01 0)
+				(at -62.23 -54.61 0)
 				(length 2.54)
 				(name "HD56#"
 					(effects
@@ -483,7 +483,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 77.47 0)
+				(at -62.23 -69.85 0)
 				(length 2.54)
 				(name "HD62#"
 					(effects
@@ -501,7 +501,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 74.93 0)
+				(at -62.23 -52.07 0)
 				(length 2.54)
 				(name "HD55#"
 					(effects
@@ -519,25 +519,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 97.79 0)
-				(length 2.54)
-				(name "GD13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AA1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 52.07 74.93 0)
+				(at 120.65 74.93 0)
 				(length 2.54)
 				(name "MECC5"
 					(effects
@@ -555,7 +537,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 72.39 0)
+				(at 48.26 93.98 0)
 				(length 2.54)
 				(name "VSUS"
 					(effects
@@ -573,7 +555,7 @@
 				)
 			)
 			(pin input line
-				(at 52.07 69.85 0)
+				(at -105.41 -149.86 0)
 				(length 2.54)
 				(name "SUST#"
 					(effects
@@ -591,7 +573,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 67.31 0)
+				(at -105.41 -144.78 0)
 				(length 2.54)
 				(name "SRASB#"
 					(effects
@@ -609,7 +591,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 64.77 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -627,7 +609,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 62.23 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -645,7 +627,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 95.25 0)
+				(at -12.7 57.15 0)
 				(length 2.54)
 				(name "GD12"
 					(effects
@@ -663,7 +645,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 59.69 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -681,7 +663,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 57.15 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -699,7 +681,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 54.61 0)
+				(at 154.94 82.55 0)
 				(length 2.54)
 				(name "DQMA2"
 					(effects
@@ -717,7 +699,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 52.07 0)
+				(at 120.65 72.39 0)
 				(length 2.54)
 				(name "MECC6"
 					(effects
@@ -735,7 +717,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 49.53 0)
+				(at 154.94 80.01 0)
 				(length 2.54)
 				(name "DQMA3"
 					(effects
@@ -753,7 +735,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 46.99 0)
+				(at 120.65 82.55 0)
 				(length 2.54)
 				(name "MECC2"
 					(effects
@@ -771,7 +753,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 44.45 0)
+				(at 120.65 69.85 0)
 				(length 2.54)
 				(name "MECC7"
 					(effects
@@ -789,7 +771,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 92.71 0)
+				(at -73.66 93.98 0)
 				(length 2.54)
 				(name "VCCQ"
 					(effects
@@ -807,7 +789,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 90.17 0)
+				(at -12.7 59.69 0)
 				(length 2.54)
 				(name "GD11"
 					(effects
@@ -825,7 +807,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 87.63 0)
+				(at -12.7 64.77 0)
 				(length 2.54)
 				(name "GD9"
 					(effects
@@ -843,7 +825,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 85.09 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -861,7 +843,7 @@
 				)
 			)
 			(pin input line
-				(at 52.07 82.55 0)
+				(at -73.66 93.98 0)
 				(length 2.54)
 				(name "VCCQ"
 					(effects
@@ -879,7 +861,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 80.01 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -897,7 +879,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 77.47 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -915,7 +897,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 41.91 0)
+				(at -12.7 67.31 0)
 				(length 2.54)
 				(name "GD8"
 					(effects
@@ -933,7 +915,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 19.05 0)
+				(at -36.83 -24.13 0)
 				(length 2.54)
 				(name "MD44"
 					(effects
@@ -951,7 +933,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 16.51 0)
+				(at -36.83 52.07 0)
 				(length 2.54)
 				(name "MD14"
 					(effects
@@ -969,7 +951,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 13.97 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -987,7 +969,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 11.43 0)
+				(at -105.41 -137.16 0)
 				(length 2.54)
 				(name "SCASB#"
 					(effects
@@ -1005,7 +987,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 8.89 0)
+				(at 80.01 87.63 0)
 				(length 2.54)
 				(name "CSA0#"
 					(effects
@@ -1023,7 +1005,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 6.35 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1041,7 +1023,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 3.81 0)
+				(at 3.81 85.09 0)
 				(length 2.54)
 				(name "MAA1"
 					(effects
@@ -1059,7 +1041,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 1.27 0)
+				(at 22.86 80.01 0)
 				(length 2.54)
 				(name "MAB3#"
 					(effects
@@ -1077,7 +1059,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -1.27 0)
+				(at 22.86 72.39 0)
 				(length 2.54)
 				(name "MAB6#"
 					(effects
@@ -1094,26 +1076,8 @@
 					)
 				)
 			)
-			(pin output line
-				(at 52.07 -3.81 0)
-				(length 2.54)
-				(name "MA7#"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AB19"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
-				(at 52.07 39.37 0)
+				(at -12.7 62.23 0)
 				(length 2.54)
 				(name "GD10"
 					(effects
@@ -1131,7 +1095,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -6.35 0)
+				(at 22.86 62.23 0)
 				(length 2.54)
 				(name "MAB10"
 					(effects
@@ -1149,9 +1113,9 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -8.89 0)
+				(at -105.41 -50.8 0)
 				(length 2.54)
-				(name "DCLK0"
+				(name "DCLKO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1167,7 +1131,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -11.43 0)
+				(at 3.81 52.07 0)
 				(length 2.54)
 				(name "MAA14"
 					(effects
@@ -1185,7 +1149,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -13.97 0)
+				(at 99.06 74.93 0)
 				(length 2.54)
 				(name "CSB5#"
 					(effects
@@ -1203,7 +1167,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 -16.51 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1221,7 +1185,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 -19.05 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1239,7 +1203,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -21.59 0)
+				(at 154.94 69.85 0)
 				(length 2.54)
 				(name "DQMA7"
 					(effects
@@ -1257,7 +1221,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 36.83 0)
+				(at 45.72 74.93 0)
 				(length 2.54)
 				(name "GBE0#"
 					(effects
@@ -1275,7 +1239,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 34.29 0)
+				(at -12.7 69.85 0)
 				(length 2.54)
 				(name "GD7"
 					(effects
@@ -1293,7 +1257,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 31.75 0)
+				(at -12.7 87.63 0)
 				(length 2.54)
 				(name "GD0"
 					(effects
@@ -1311,7 +1275,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 29.21 0)
+				(at -36.83 82.55 0)
 				(length 2.54)
 				(name "MD2"
 					(effects
@@ -1329,7 +1293,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 26.67 0)
+				(at -36.83 -6.35 0)
 				(length 2.54)
 				(name "MD37"
 					(effects
@@ -1347,7 +1311,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 24.13 0)
+				(at -36.83 -13.97 0)
 				(length 2.54)
 				(name "MD40"
 					(effects
@@ -1365,7 +1329,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 21.59 0)
+				(at -36.83 -16.51 0)
 				(length 2.54)
 				(name "MD41"
 					(effects
@@ -1383,7 +1347,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -99.06 0)
+				(at -12.7 72.39 0)
 				(length 2.54)
 				(name "GD6"
 					(effects
@@ -1401,25 +1365,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -99.06 0)
-				(length 2.54)
-				(name "MD44"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AC10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 13.97 -101.6 0)
+				(at -36.83 49.53 0)
 				(length 2.54)
 				(name "MD15"
 					(effects
@@ -1437,7 +1383,7 @@
 				)
 			)
 			(pin output line
-				(at 13.97 -104.14 0)
+				(at -105.41 -154.94 0)
 				(length 2.54)
 				(name "SWEB#"
 					(effects
@@ -1455,7 +1401,7 @@
 				)
 			)
 			(pin output line
-				(at 13.97 -106.68 0)
+				(at 154.94 74.93 0)
 				(length 2.54)
 				(name "DQMA5"
 					(effects
@@ -1473,7 +1419,7 @@
 				)
 			)
 			(pin output line
-				(at 13.97 -109.22 0)
+				(at 154.94 85.09 0)
 				(length 2.54)
 				(name "DQMA1"
 					(effects
@@ -1491,7 +1437,7 @@
 				)
 			)
 			(pin output line
-				(at 13.97 -111.76 0)
+				(at 80.01 80.01 0)
 				(length 2.54)
 				(name "CSA3#"
 					(effects
@@ -1509,7 +1455,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 97.79 0)
+				(at 22.86 85.09 0)
 				(length 2.54)
 				(name "MAB1#"
 					(effects
@@ -1527,7 +1473,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 95.25 0)
+				(at 3.81 80.01 0)
 				(length 2.54)
 				(name "MAA3"
 					(effects
@@ -1545,7 +1491,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 92.71 0)
+				(at 3.81 69.85 0)
 				(length 2.54)
 				(name "MAA7"
 					(effects
@@ -1563,7 +1509,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 90.17 0)
+				(at 3.81 67.31 0)
 				(length 2.54)
 				(name "MAA8"
 					(effects
@@ -1581,7 +1527,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -101.6 0)
+				(at -12.7 77.47 0)
 				(length 2.54)
 				(name "GD4"
 					(effects
@@ -1599,7 +1545,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 87.63 0)
+				(at 22.86 64.77 0)
 				(length 2.54)
 				(name "MAB9#"
 					(effects
@@ -1617,7 +1563,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 85.09 0)
+				(at 3.81 57.15 0)
 				(length 2.54)
 				(name "MAA12"
 					(effects
@@ -1635,7 +1581,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 82.55 0)
+				(at 187.96 87.63 0)
 				(length 2.54)
 				(name "CKE0"
 					(effects
@@ -1653,7 +1599,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 80.01 0)
+				(at 187.96 77.47 0)
 				(length 2.54)
 				(name "CKE4"
 					(effects
@@ -1671,7 +1617,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 77.47 0)
+				(at 99.06 80.01 0)
 				(length 2.54)
 				(name "CSB3#"
 					(effects
@@ -1689,7 +1635,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 74.93 0)
+				(at 154.94 72.39 0)
 				(length 2.54)
 				(name "DQMA6"
 					(effects
@@ -1707,7 +1653,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 72.39 0)
+				(at 99.06 77.47 0)
 				(length 2.54)
 				(name "CSB4#"
 					(effects
@@ -1725,7 +1671,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -104.14 0)
+				(at -12.7 74.93 0)
 				(length 2.54)
 				(name "GD5"
 					(effects
@@ -1743,7 +1689,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -106.68 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1761,7 +1707,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -109.22 0)
+				(at -36.83 87.63 0)
 				(length 2.54)
 				(name "MD0"
 					(effects
@@ -1779,7 +1725,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -111.76 0)
+				(at -36.83 80.01 0)
 				(length 2.54)
 				(name "MD3"
 					(effects
@@ -1797,7 +1743,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 97.79 0)
+				(at -36.83 -8.89 0)
 				(length 2.54)
 				(name "MD38"
 					(effects
@@ -1815,7 +1761,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 95.25 0)
+				(at -36.83 69.85 0)
 				(length 2.54)
 				(name "MD7"
 					(effects
@@ -1833,7 +1779,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 92.71 0)
+				(at -36.83 -19.05 0)
 				(length 2.54)
 				(name "MD42"
 					(effects
@@ -1851,7 +1797,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 69.85 0)
+				(at -12.7 52.07 0)
 				(length 2.54)
 				(name "GD14"
 					(effects
@@ -1869,7 +1815,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 46.99 0)
+				(at -36.83 57.15 0)
 				(length 2.54)
 				(name "MD12"
 					(effects
@@ -1887,7 +1833,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 44.45 0)
+				(at -36.83 -31.75 0)
 				(length 2.54)
 				(name "MD47"
 					(effects
@@ -1905,7 +1851,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 41.91 0)
+				(at 120.65 85.09 0)
 				(length 2.54)
 				(name "MECC1"
 					(effects
@@ -1923,7 +1869,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 39.37 0)
+				(at 154.94 77.47 0)
 				(length 2.54)
 				(name "DQMA4"
 					(effects
@@ -1941,9 +1887,9 @@
 				)
 			)
 			(pin output line
-				(at 52.07 36.83 0)
+				(at 109.22 29.21 0)
 				(length 2.54)
-				(name "DQMV1"
+				(name "DQMB1#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1959,7 +1905,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 34.29 0)
+				(at 80.01 77.47 0)
 				(length 2.54)
 				(name "CSA4#"
 					(effects
@@ -1977,7 +1923,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 31.75 0)
+				(at 22.86 87.63 0)
 				(length 2.54)
 				(name "MAB0#"
 					(effects
@@ -1995,7 +1941,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 29.21 0)
+				(at 22.86 82.55 0)
 				(length 2.54)
 				(name "MAB2#"
 					(effects
@@ -2013,7 +1959,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 26.67 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2031,7 +1977,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 24.13 0)
+				(at 22.86 74.93 0)
 				(length 2.54)
 				(name "MAB5#"
 					(effects
@@ -2049,7 +1995,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 67.31 0)
+				(at -12.7 80.01 0)
 				(length 2.54)
 				(name "GD3"
 					(effects
@@ -2067,7 +2013,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 21.59 0)
+				(at 3.81 62.23 0)
 				(length 2.54)
 				(name "MAA10"
 					(effects
@@ -2085,7 +2031,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 19.05 0)
+				(at 22.86 57.15 0)
 				(length 2.54)
 				(name "MAB12#"
 					(effects
@@ -2103,7 +2049,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 16.51 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2121,7 +2067,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 13.97 0)
+				(at 187.96 80.01 0)
 				(length 2.54)
 				(name "CKE3"
 					(effects
@@ -2139,9 +2085,9 @@
 				)
 			)
 			(pin output line
-				(at 52.07 11.43 0)
+				(at 99.06 85.09 0)
 				(length 2.54)
-				(name "CKE2"
+				(name "CSB1#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2157,7 +2103,7 @@
 				)
 			)
 			(pin input line
-				(at 52.07 8.89 0)
+				(at -105.41 -53.34 0)
 				(length 2.54)
 				(name "DCLKWR"
 					(effects
@@ -2175,7 +2121,7 @@
 				)
 			)
 			(pin input line
-				(at 52.07 6.35 0)
+				(at 99.06 82.55 0)
 				(length 2.54)
 				(name "CSB2#"
 					(effects
@@ -2193,7 +2139,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 64.77 0)
+				(at -12.7 82.55 0)
 				(length 2.54)
 				(name "GD2"
 					(effects
@@ -2211,7 +2157,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 62.23 0)
+				(at -34.29 93.98 0)
 				(length 2.54)
 				(name "VCCQQ"
 					(effects
@@ -2229,7 +2175,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 59.69 0)
+				(at -7.62 93.98 0)
 				(length 2.54)
 				(name "GNDQQ"
 					(effects
@@ -2247,7 +2193,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 57.15 0)
+				(at -36.83 -1.27 0)
 				(length 2.54)
 				(name "MD35"
 					(effects
@@ -2265,7 +2211,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 54.61 0)
+				(at -36.83 74.93 0)
 				(length 2.54)
 				(name "MD5"
 					(effects
@@ -2283,7 +2229,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 52.07 0)
+				(at -36.83 67.31 0)
 				(length 2.54)
 				(name "MD8"
 					(effects
@@ -2301,7 +2247,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 49.53 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2319,25 +2265,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 3.81 0)
-				(length 2.54)
-				(name "GD01"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AE1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 52.07 -19.05 0)
+				(at -36.83 54.61 0)
 				(length 2.54)
 				(name "MD13"
 					(effects
@@ -2355,7 +2283,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -21.59 0)
+				(at 120.65 77.47 0)
 				(length 2.54)
 				(name "MECC4"
 					(effects
@@ -2373,7 +2301,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -24.13 0)
+				(at -105.41 -152.4 0)
 				(length 2.54)
 				(name "SWEA#"
 					(effects
@@ -2391,9 +2319,9 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -26.67 0)
+				(at 109.22 26.67 0)
 				(length 2.54)
-				(name "DQMB5"
+				(name "DQMB5#"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2409,7 +2337,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -29.21 0)
+				(at 154.94 87.63 0)
 				(length 2.54)
 				(name "DQMA0"
 					(effects
@@ -2427,7 +2355,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -31.75 0)
+				(at 80.01 82.55 0)
 				(length 2.54)
 				(name "CSA2#"
 					(effects
@@ -2445,7 +2373,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -34.29 0)
+				(at 80.01 74.93 0)
 				(length 2.54)
 				(name "CSA5#"
 					(effects
@@ -2463,7 +2391,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -36.83 0)
+				(at 3.81 82.55 0)
 				(length 2.54)
 				(name "MAA2"
 					(effects
@@ -2481,7 +2409,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -39.37 0)
+				(at 22.86 77.47 0)
 				(length 2.54)
 				(name "MAB4#"
 					(effects
@@ -2499,7 +2427,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -41.91 0)
+				(at 3.81 74.93 0)
 				(length 2.54)
 				(name "MAA5"
 					(effects
@@ -2517,7 +2445,7 @@
 				)
 			)
 			(pin input line
-				(at 52.07 1.27 0)
+				(at -105.41 -111.76 0)
 				(length 2.54)
 				(name "NCOMP"
 					(effects
@@ -2535,7 +2463,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -44.45 0)
+				(at 3.81 64.77 0)
 				(length 2.54)
 				(name "MAA9"
 					(effects
@@ -2553,7 +2481,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -46.99 0)
+				(at 22.86 59.69 0)
 				(length 2.54)
 				(name "MAB11#"
 					(effects
@@ -2571,7 +2499,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -49.53 0)
+				(at 22.86 52.07 0)
 				(length 2.54)
 				(name "MAB14#"
 					(effects
@@ -2589,7 +2517,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 -52.07 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2607,7 +2535,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -54.61 0)
+				(at 187.96 82.55 0)
 				(length 2.54)
 				(name "CKE2"
 					(effects
@@ -2625,7 +2553,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -57.15 0)
+				(at 99.06 87.63 0)
 				(length 2.54)
 				(name "CSB0#"
 					(effects
@@ -2643,7 +2571,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 -59.69 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -2661,7 +2589,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -1.27 0)
+				(at -105.41 -162.56 0)
 				(length 2.54)
 				(name "WSC#"
 					(effects
@@ -2679,7 +2607,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -3.81 0)
+				(at -36.83 3.81 0)
 				(length 2.54)
 				(name "MD33"
 					(effects
@@ -2697,7 +2625,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -6.35 0)
+				(at -36.83 85.09 0)
 				(length 2.54)
 				(name "MD1"
 					(effects
@@ -2715,7 +2643,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -8.89 0)
+				(at -36.83 -3.81 0)
 				(length 2.54)
 				(name "MD36"
 					(effects
@@ -2733,7 +2661,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -11.43 0)
+				(at -36.83 72.39 0)
 				(length 2.54)
 				(name "MD6"
 					(effects
@@ -2751,7 +2679,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -13.97 0)
+				(at -36.83 62.23 0)
 				(length 2.54)
 				(name "MD10"
 					(effects
@@ -2769,7 +2697,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -16.51 0)
+				(at -36.83 -21.59 0)
 				(length 2.54)
 				(name "MD43"
 					(effects
@@ -2787,7 +2715,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 -62.23 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2805,7 +2733,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -85.09 0)
+				(at -36.83 -29.21 0)
 				(length 2.54)
 				(name "MD46"
 					(effects
@@ -2823,7 +2751,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -87.63 0)
+				(at 120.65 87.63 0)
 				(length 2.54)
 				(name "MECC0"
 					(effects
@@ -2841,7 +2769,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -90.17 0)
+				(at -105.41 -134.62 0)
 				(length 2.54)
 				(name "SCASA#"
 					(effects
@@ -2859,7 +2787,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 -92.71 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2877,7 +2805,7 @@
 				)
 			)
 			(pin power_in line
-				(at 52.07 -95.25 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -2895,7 +2823,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -97.79 0)
+				(at 80.01 85.09 0)
 				(length 2.54)
 				(name "CSA1#"
 					(effects
@@ -2913,7 +2841,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -100.33 0)
+				(at -105.41 -142.24 0)
 				(length 2.54)
 				(name "SRASA#"
 					(effects
@@ -2931,7 +2859,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -102.87 0)
+				(at 2.54 87.63 0)
 				(length 2.54)
 				(name "MAA0"
 					(effects
@@ -2949,7 +2877,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -105.41 0)
+				(at 3.81 77.47 0)
 				(length 2.54)
 				(name "MAA4"
 					(effects
@@ -2967,7 +2895,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -107.95 0)
+				(at 3.81 72.39 0)
 				(length 2.54)
 				(name "MAA6"
 					(effects
@@ -2985,7 +2913,7 @@
 				)
 			)
 			(pin input line
-				(at 52.07 -64.77 0)
+				(at -105.41 -121.92 0)
 				(length 2.54)
 				(name "PCOMP"
 					(effects
@@ -3003,7 +2931,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -110.49 0)
+				(at 22.86 67.31 0)
 				(length 2.54)
 				(name "MAB8#"
 					(effects
@@ -3021,7 +2949,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -113.03 0)
+				(at 3.81 59.69 0)
 				(length 2.54)
 				(name "MAA11"
 					(effects
@@ -3039,7 +2967,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -115.57 0)
+				(at 22.86 54.61 0)
 				(length 2.54)
 				(name "MAB13#"
 					(effects
@@ -3057,7 +2985,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -118.11 0)
+				(at 187.96 85.09 0)
 				(length 2.54)
 				(name "CKE1"
 					(effects
@@ -3075,7 +3003,7 @@
 				)
 			)
 			(pin output line
-				(at 52.07 -120.65 0)
+				(at 3.81 54.61 0)
 				(length 2.54)
 				(name "MAA13"
 					(effects
@@ -3092,26 +3020,8 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at 109.22 44.45 0)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AF26"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin input line
-				(at 52.07 -67.31 0)
+				(at 25.4 93.98 0)
 				(length 2.54)
 				(name "PWROK"
 					(effects
@@ -3129,7 +3039,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -69.85 0)
+				(at -36.83 6.35 0)
 				(length 2.54)
 				(name "MD32"
 					(effects
@@ -3147,7 +3057,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -72.39 0)
+				(at -36.83 1.27 0)
 				(length 2.54)
 				(name "MD34"
 					(effects
@@ -3165,7 +3075,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -74.93 0)
+				(at -36.83 77.47 0)
 				(length 2.54)
 				(name "MD4"
 					(effects
@@ -3183,7 +3093,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -77.47 0)
+				(at -36.83 -11.43 0)
 				(length 2.54)
 				(name "MD39"
 					(effects
@@ -3201,7 +3111,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -80.01 0)
+				(at -36.83 64.77 0)
 				(length 2.54)
 				(name "MD9"
 					(effects
@@ -3219,7 +3129,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 52.07 -82.55 0)
+				(at -36.83 59.69 0)
 				(length 2.54)
 				(name "MD11"
 					(effects
@@ -3237,7 +3147,7 @@
 				)
 			)
 			(pin power_in line
-				(at -158.75 29.21 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -3255,7 +3165,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 6.35 0)
+				(at -62.23 -46.99 0)
 				(length 2.54)
 				(name "HD53#"
 					(effects
@@ -3273,7 +3183,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 3.81 0)
+				(at -62.23 -34.29 0)
 				(length 2.54)
 				(name "HD48#"
 					(effects
@@ -3291,7 +3201,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 1.27 0)
+				(at -62.23 -19.05 0)
 				(length 2.54)
 				(name "HD42#"
 					(effects
@@ -3309,7 +3219,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -1.27 0)
+				(at -62.23 -3.81 0)
 				(length 2.54)
 				(name "HD36#"
 					(effects
@@ -3327,7 +3237,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -3.81 0)
+				(at -62.23 -21.59 0)
 				(length 2.54)
 				(name "HD43#"
 					(effects
@@ -3345,7 +3255,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -6.35 0)
+				(at -62.23 6.35 0)
 				(length 2.54)
 				(name "HD32#"
 					(effects
@@ -3363,7 +3273,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -8.89 0)
+				(at -62.23 13.97 0)
 				(length 2.54)
 				(name "HD29#"
 					(effects
@@ -3381,7 +3291,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -11.43 0)
+				(at -62.23 24.13 0)
 				(length 2.54)
 				(name "HD25#"
 					(effects
@@ -3399,7 +3309,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -13.97 0)
+				(at -62.23 34.29 0)
 				(length 2.54)
 				(name "HD21#"
 					(effects
@@ -3417,7 +3327,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -16.51 0)
+				(at -62.23 41.91 0)
 				(length 2.54)
 				(name "HD18#"
 					(effects
@@ -3435,7 +3345,7 @@
 				)
 			)
 			(pin input line
-				(at -158.75 26.67 0)
+				(at -105.41 -119.38 0)
 				(length 2.54)
 				(name "PCLK"
 					(effects
@@ -3453,7 +3363,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -19.05 0)
+				(at -62.23 57.15 0)
 				(length 2.54)
 				(name "HD12#"
 					(effects
@@ -3471,7 +3381,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -21.59 0)
+				(at -62.23 67.31 0)
 				(length 2.54)
 				(name "HD8#"
 					(effects
@@ -3489,7 +3399,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -24.13 0)
+				(at -62.23 87.63 0)
 				(length 2.54)
 				(name "HD0#"
 					(effects
@@ -3507,7 +3417,7 @@
 				)
 			)
 			(pin output line
-				(at -158.75 -26.67 0)
+				(at -105.41 -43.18 0)
 				(length 2.54)
 				(name "CPURST#"
 					(effects
@@ -3525,7 +3435,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -29.21 0)
+				(at -88.9 19.05 0)
 				(length 2.54)
 				(name "HA27#"
 					(effects
@@ -3543,7 +3453,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -31.75 0)
+				(at -88.9 36.83 0)
 				(length 2.54)
 				(name "HA20#"
 					(effects
@@ -3561,7 +3471,7 @@
 				)
 			)
 			(pin output line
-				(at -158.75 -34.29 0)
+				(at 92.71 3.81 0)
 				(length 2.54)
 				(name "BRE0#"
 					(effects
@@ -3579,7 +3489,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 24.13 0)
+				(at -110.49 31.75 0)
 				(length 2.54)
 				(name "AD22"
 					(effects
@@ -3597,7 +3507,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 21.59 0)
+				(at -110.49 19.05 0)
 				(length 2.54)
 				(name "AD27"
 					(effects
@@ -3615,7 +3525,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 19.05 0)
+				(at -110.49 16.51 0)
 				(length 2.54)
 				(name "AD28"
 					(effects
@@ -3633,7 +3543,7 @@
 				)
 			)
 			(pin input line
-				(at -158.75 16.51 0)
+				(at -105.41 -124.46 0)
 				(length 2.54)
 				(name "PREQ"
 					(effects
@@ -3651,7 +3561,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 13.97 0)
+				(at -62.23 -39.37 0)
 				(length 2.54)
 				(name "HD50#"
 					(effects
@@ -3669,7 +3579,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 11.43 0)
+				(at -62.23 -67.31 0)
 				(length 2.54)
 				(name "HD61#"
 					(effects
@@ -3687,7 +3597,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 8.89 0)
+				(at -62.23 -72.39 0)
 				(length 2.54)
 				(name "HD63#"
 					(effects
@@ -3705,7 +3615,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -36.83 0)
+				(at -110.49 39.37 0)
 				(length 2.54)
 				(name "AD19"
 					(effects
@@ -3723,7 +3633,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -59.69 0)
+				(at -62.23 -64.77 0)
 				(length 2.54)
 				(name "HD60#"
 					(effects
@@ -3741,7 +3651,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -62.23 0)
+				(at -62.23 -62.23 0)
 				(length 2.54)
 				(name "HD59#"
 					(effects
@@ -3759,7 +3669,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -64.77 0)
+				(at -62.23 -41.91 0)
 				(length 2.54)
 				(name "HD51#"
 					(effects
@@ -3777,7 +3687,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -67.31 0)
+				(at -62.23 -24.13 0)
 				(length 2.54)
 				(name "HD44#"
 					(effects
@@ -3795,7 +3705,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -69.85 0)
+				(at -62.23 -6.35 0)
 				(length 2.54)
 				(name "HD37#"
 					(effects
@@ -3813,7 +3723,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -72.39 0)
+				(at -62.23 16.51 0)
 				(length 2.54)
 				(name "HD28#"
 					(effects
@@ -3831,7 +3741,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -74.93 0)
+				(at -62.23 21.59 0)
 				(length 2.54)
 				(name "HD26#"
 					(effects
@@ -3849,7 +3759,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -77.47 0)
+				(at -62.23 31.75 0)
 				(length 2.54)
 				(name "HD22#"
 					(effects
@@ -3867,7 +3777,7 @@
 				)
 			)
 			(pin power_in line
-				(at -158.75 -80.01 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3885,7 +3795,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -82.55 0)
+				(at -62.23 44.45 0)
 				(length 2.54)
 				(name "HD17#"
 					(effects
@@ -3903,7 +3813,7 @@
 				)
 			)
 			(pin power_in line
-				(at -158.75 -39.37 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -3921,7 +3831,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -85.09 0)
+				(at -62.23 69.85 0)
 				(length 2.54)
 				(name "HD7#"
 					(effects
@@ -3939,7 +3849,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -87.63 0)
+				(at -62.23 74.93 0)
 				(length 2.54)
 				(name "HD5#"
 					(effects
@@ -3957,7 +3867,7 @@
 				)
 			)
 			(pin power_in line
-				(at -158.75 -90.17 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3975,7 +3885,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -92.71 0)
+				(at -88.9 21.59 0)
 				(length 2.54)
 				(name "HA26#"
 					(effects
@@ -3993,7 +3903,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -95.25 0)
+				(at -88.9 16.51 0)
 				(length 2.54)
 				(name "HA28#"
 					(effects
@@ -4011,7 +3921,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -97.79 0)
+				(at -88.9 29.21 0)
 				(length 2.54)
 				(name "HA23#"
 					(effects
@@ -4029,7 +3939,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -100.33 0)
+				(at -88.9 34.29 0)
 				(length 2.54)
 				(name "HA21#"
 					(effects
@@ -4047,7 +3957,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -41.91 0)
+				(at -110.49 34.29 0)
 				(length 2.54)
 				(name "AD21"
 					(effects
@@ -4065,7 +3975,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -44.45 0)
+				(at -105.41 -38.1 0)
 				(length 2.54)
 				(name "CBE#"
 					(effects
@@ -4083,7 +3993,7 @@
 				)
 			)
 			(pin power_in line
-				(at -158.75 -46.99 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4101,7 +4011,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -49.53 0)
+				(at -110.49 8.89 0)
 				(length 2.54)
 				(name "AD31"
 					(effects
@@ -4119,7 +4029,7 @@
 				)
 			)
 			(pin input line
-				(at -158.75 -52.07 0)
+				(at 171.45 85.09 0)
 				(length 2.54)
 				(name "REQ1#"
 					(effects
@@ -4136,26 +4046,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at -158.75 -54.61 0)
-				(length 2.54)
-				(name "HD52"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "C8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
-				(at -158.75 -57.15 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4173,7 +4065,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -102.87 0)
+				(at -110.49 46.99 0)
 				(length 2.54)
 				(name "AD16"
 					(effects
@@ -4191,7 +4083,7 @@
 				)
 			)
 			(pin input line
-				(at -158.75 -125.73 0)
+				(at 171.45 77.47 0)
 				(length 2.54)
 				(name "REQ4#"
 					(effects
@@ -4209,7 +4101,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 66.04 0)
+				(at -62.23 -29.21 0)
 				(length 2.54)
 				(name "HD46#"
 					(effects
@@ -4227,7 +4119,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 63.5 0)
+				(at -62.23 -16.51 0)
 				(length 2.54)
 				(name "HD41#"
 					(effects
@@ -4245,7 +4137,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 60.96 0)
+				(at -62.23 -11.43 0)
 				(length 2.54)
 				(name "HD39#"
 					(effects
@@ -4263,7 +4155,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 58.42 0)
+				(at -62.23 1.27 0)
 				(length 2.54)
 				(name "HD34#"
 					(effects
@@ -4281,7 +4173,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 55.88 0)
+				(at -62.23 -1.27 0)
 				(length 2.54)
 				(name "HD35#"
 					(effects
@@ -4299,7 +4191,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 53.34 0)
+				(at -62.23 11.43 0)
 				(length 2.54)
 				(name "HD30#"
 					(effects
@@ -4317,7 +4209,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 50.8 0)
+				(at -62.23 26.67 0)
 				(length 2.54)
 				(name "HD24#"
 					(effects
@@ -4335,7 +4227,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 48.26 0)
+				(at -62.23 46.99 0)
 				(length 2.54)
 				(name "HD16#"
 					(effects
@@ -4353,7 +4245,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 45.72 0)
+				(at -62.23 49.53 0)
 				(length 2.54)
 				(name "HD15#"
 					(effects
@@ -4371,7 +4263,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -105.41 0)
+				(at -110.49 41.91 0)
 				(length 2.54)
 				(name "AD18"
 					(effects
@@ -4389,7 +4281,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 43.18 0)
+				(at -62.23 52.07 0)
 				(length 2.54)
 				(name "HD14#"
 					(effects
@@ -4407,7 +4299,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 40.64 0)
+				(at -62.23 77.47 0)
 				(length 2.54)
 				(name "HD4#"
 					(effects
@@ -4425,7 +4317,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 38.1 0)
+				(at -62.23 85.09 0)
 				(length 2.54)
 				(name "HD1#"
 					(effects
@@ -4443,7 +4335,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 35.56 0)
+				(at -88.9 8.89 0)
 				(length 2.54)
 				(name "HA31#"
 					(effects
@@ -4461,7 +4353,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 33.02 0)
+				(at -88.9 24.13 0)
 				(length 2.54)
 				(name "HA25#"
 					(effects
@@ -4479,7 +4371,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 30.48 0)
+				(at -88.9 41.91 0)
 				(length 2.54)
 				(name "HA18#"
 					(effects
@@ -4497,7 +4389,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 27.94 0)
+				(at -88.9 39.37 0)
 				(length 2.54)
 				(name "HA19#"
 					(effects
@@ -4515,7 +4407,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -107.95 0)
+				(at -110.49 44.45 0)
 				(length 2.54)
 				(name "AD17"
 					(effects
@@ -4533,7 +4425,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -110.49 0)
+				(at -110.49 29.21 0)
 				(length 2.54)
 				(name "AD23"
 					(effects
@@ -4551,7 +4443,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -113.03 0)
+				(at -110.49 21.59 0)
 				(length 2.54)
 				(name "AD26"
 					(effects
@@ -4569,7 +4461,7 @@
 				)
 			)
 			(pin output line
-				(at -158.75 -115.57 0)
+				(at -105.41 -116.84 0)
 				(length 2.54)
 				(name "PGNT#"
 					(effects
@@ -4587,7 +4479,7 @@
 				)
 			)
 			(pin output line
-				(at -158.75 -118.11 0)
+				(at 63.5 85.09 0)
 				(length 2.54)
 				(name "GNT1#"
 					(effects
@@ -4605,7 +4497,7 @@
 				)
 			)
 			(pin input line
-				(at -158.75 -120.65 0)
+				(at 171.45 80.01 0)
 				(length 2.54)
 				(name "REQ3#"
 					(effects
@@ -4623,7 +4515,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -158.75 -123.19 0)
+				(at -62.23 -59.69 0)
 				(length 2.54)
 				(name "HD58#"
 					(effects
@@ -4641,7 +4533,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 25.4 0)
+				(at -105.41 -60.96 0)
 				(length 2.54)
 				(name "FRAME#"
 					(effects
@@ -4659,7 +4551,7 @@
 				)
 			)
 			(pin output line
-				(at -95.25 2.54 0)
+				(at 63.5 82.55 0)
 				(length 2.54)
 				(name "GNT2#"
 					(effects
@@ -4677,7 +4569,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 0 0)
+				(at -62.23 -57.15 0)
 				(length 2.54)
 				(name "HD57#"
 					(effects
@@ -4695,7 +4587,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -2.54 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4713,7 +4605,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -5.08 0)
+				(at -62.23 -26.67 0)
 				(length 2.54)
 				(name "HD45#"
 					(effects
@@ -4731,7 +4623,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -7.62 0)
+				(at -62.23 -8.89 0)
 				(length 2.54)
 				(name "HD38#"
 					(effects
@@ -4749,7 +4641,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -10.16 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4767,7 +4659,7 @@
 				)
 			)
 			(pin input line
-				(at -95.25 -12.7 0)
+				(at 82.55 93.98 0)
 				(length 2.54)
 				(name "GTLREF"
 					(effects
@@ -4785,7 +4677,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -15.24 0)
+				(at -62.23 29.21 0)
 				(length 2.54)
 				(name "HD23#"
 					(effects
@@ -4803,7 +4695,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -17.78 0)
+				(at -62.23 54.61 0)
 				(length 2.54)
 				(name "HD13#"
 					(effects
@@ -4821,7 +4713,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -20.32 0)
+				(at -62.23 59.69 0)
 				(length 2.54)
 				(name "HD11#"
 					(effects
@@ -4839,7 +4731,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 22.86 0)
+				(at -105.41 -106.68 0)
 				(length 2.54)
 				(name "IRDY#"
 					(effects
@@ -4857,7 +4749,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -22.86 0)
+				(at -62.23 64.77 0)
 				(length 2.54)
 				(name "HD9#"
 					(effects
@@ -4875,7 +4767,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -25.4 0)
+				(at -62.23 82.55 0)
 				(length 2.54)
 				(name "HD2#"
 					(effects
@@ -4893,7 +4785,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -27.94 0)
+				(at -88.9 11.43 0)
 				(length 2.54)
 				(name "HA30#"
 					(effects
@@ -4911,7 +4803,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -30.48 0)
+				(at -88.9 49.53 0)
 				(length 2.54)
 				(name "HA15#"
 					(effects
@@ -4929,7 +4821,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -33.02 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4947,7 +4839,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -35.56 0)
+				(at -88.9 44.45 0)
 				(length 2.54)
 				(name "HA17#"
 					(effects
@@ -4965,7 +4857,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -38.1 0)
+				(at -88.9 46.99 0)
 				(length 2.54)
 				(name "HA16#"
 					(effects
@@ -4983,7 +4875,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 20.32 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5001,7 +4893,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 17.78 0)
+				(at 45.72 82.55 0)
 				(length 2.54)
 				(name "CBE2#"
 					(effects
@@ -5019,7 +4911,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 15.24 0)
+				(at -110.49 26.67 0)
 				(length 2.54)
 				(name "AD24"
 					(effects
@@ -5037,7 +4929,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 12.7 0)
+				(at -110.49 11.43 0)
 				(length 2.54)
 				(name "AD30"
 					(effects
@@ -5055,7 +4947,7 @@
 				)
 			)
 			(pin output line
-				(at -95.25 10.16 0)
+				(at 63.5 87.63 0)
 				(length 2.54)
 				(name "GNT0#"
 					(effects
@@ -5073,25 +4965,7 @@
 				)
 			)
 			(pin output line
-				(at -95.25 7.62 0)
-				(length 2.54)
-				(name "GNT3#"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "E8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at -95.25 5.08 0)
+				(at 63.5 77.47 0)
 				(length 2.54)
 				(name "GNT4#"
 					(effects
@@ -5109,7 +4983,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -40.64 0)
+				(at -105.41 -139.7 0)
 				(length 2.54)
 				(name "SERR#"
 					(effects
@@ -5126,26 +5000,8 @@
 					)
 				)
 			)
-			(pin input line
-				(at -95.25 -17.78 0)
-				(length 2.54)
-				(name "REQ2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "F10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
-				(at -95.25 -20.32 0)
+				(at 12.7 93.98 0)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -5163,7 +5019,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -22.86 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -5181,7 +5037,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -25.4 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5199,7 +5055,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 2.54 0)
+				(at -105.41 -109.22 0)
 				(length 2.54)
 				(name "LOCK#"
 					(effects
@@ -5217,25 +5073,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -27.94 0)
-				(length 2.54)
-				(name "VCC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "F20"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at -95.25 -30.48 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5253,7 +5091,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -33.02 0)
+				(at -88.9 59.69 0)
 				(length 2.54)
 				(name "HA11#"
 					(effects
@@ -5271,7 +5109,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -35.56 0)
+				(at -88.9 57.15 0)
 				(length 2.54)
 				(name "HA12#"
 					(effects
@@ -5289,7 +5127,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -38.1 0)
+				(at -88.9 54.61 0)
 				(length 2.54)
 				(name "HA13#"
 					(effects
@@ -5307,7 +5145,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -40.64 0)
+				(at -88.9 52.07 0)
 				(length 2.54)
 				(name "HA14#"
 					(effects
@@ -5325,7 +5163,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -43.18 0)
+				(at -88.9 67.31 0)
 				(length 2.54)
 				(name "HA08#"
 					(effects
@@ -5343,7 +5181,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 0 0)
+				(at -105.41 -48.26 0)
 				(length 2.54)
 				(name "DEVSEL#"
 					(effects
@@ -5361,7 +5199,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -2.54 0)
+				(at -105.41 -147.32 0)
 				(length 2.54)
 				(name "STOP#"
 					(effects
@@ -5379,7 +5217,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -5.08 0)
+				(at -105.41 -160.02 0)
 				(length 2.54)
 				(name "TRDY#"
 					(effects
@@ -5397,7 +5235,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -7.62 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5415,7 +5253,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -10.16 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -5433,7 +5271,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -12.7 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5451,7 +5289,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -15.24 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -5469,7 +5307,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -45.72 0)
+				(at -110.49 54.61 0)
 				(length 2.54)
 				(name "AD13"
 					(effects
@@ -5487,7 +5325,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -48.26 0)
+				(at -110.49 52.07 0)
 				(length 2.54)
 				(name "AD14"
 					(effects
@@ -5505,7 +5343,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -60.96 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -5523,7 +5361,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -63.5 0)
+				(at -88.9 62.23 0)
 				(length 2.54)
 				(name "HA10#"
 					(effects
@@ -5541,7 +5379,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 86.36 0)
+				(at -88.9 74.93 0)
 				(length 2.54)
 				(name "HA5#"
 					(effects
@@ -5559,7 +5397,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 83.82 0)
+				(at -88.9 69.85 0)
 				(length 2.54)
 				(name "HA7#"
 					(effects
@@ -5577,7 +5415,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 81.28 0)
+				(at -88.9 80.01 0)
 				(length 2.54)
 				(name "HA3#"
 					(effects
@@ -5595,7 +5433,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 78.74 0)
+				(at -88.9 64.77 0)
 				(length 2.54)
 				(name "HA9#"
 					(effects
@@ -5613,7 +5451,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -50.8 0)
+				(at 45.72 85.09 0)
 				(length 2.54)
 				(name "CBE1#"
 					(effects
@@ -5631,7 +5469,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -53.34 0)
+				(at -110.49 49.53 0)
 				(length 2.54)
 				(name "AD15"
 					(effects
@@ -5649,7 +5487,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -95.25 -55.88 0)
+				(at -105.41 -114.3 0)
 				(length 2.54)
 				(name "PAR"
 					(effects
@@ -5667,7 +5505,7 @@
 				)
 			)
 			(pin power_in line
-				(at -95.25 -58.42 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -5685,7 +5523,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 76.2 0)
+				(at -110.49 67.31 0)
 				(length 2.54)
 				(name "AD8"
 					(effects
@@ -5703,7 +5541,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 73.66 0)
+				(at -110.49 69.85 0)
 				(length 2.54)
 				(name "AD7"
 					(effects
@@ -5721,7 +5559,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 60.96 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5739,7 +5577,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 58.42 0)
+				(at -88.9 77.47 0)
 				(length 2.54)
 				(name "HA4#"
 					(effects
@@ -5757,7 +5595,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 55.88 0)
+				(at -88.9 72.39 0)
 				(length 2.54)
 				(name "HA6#"
 					(effects
@@ -5775,7 +5613,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 53.34 0)
+				(at -105.41 -33.02 0)
 				(length 2.54)
 				(name "BNR#"
 					(effects
@@ -5793,7 +5631,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 50.8 0)
+				(at -105.41 -104.14 0)
 				(length 2.54)
 				(name "HTRDY#"
 					(effects
@@ -5811,7 +5649,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 48.26 0)
+				(at -105.41 -35.56 0)
 				(length 2.54)
 				(name "BPRI#"
 					(effects
@@ -5829,7 +5667,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 71.12 0)
+				(at -110.49 62.23 0)
 				(length 2.54)
 				(name "AD10"
 					(effects
@@ -5847,7 +5685,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 68.58 0)
+				(at -110.49 57.15 0)
 				(length 2.54)
 				(name "AD12"
 					(effects
@@ -5865,7 +5703,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 66.04 0)
+				(at -110.49 59.69 0)
 				(length 2.54)
 				(name "AD11"
 					(effects
@@ -5883,7 +5721,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 63.5 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5901,7 +5739,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 60.96 0)
+				(at -110.49 74.93 0)
 				(length 2.54)
 				(name "AD5"
 					(effects
@@ -5919,7 +5757,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 58.42 0)
+				(at -110.49 72.39 0)
 				(length 2.54)
 				(name "AD6"
 					(effects
@@ -5937,7 +5775,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 45.72 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -5955,7 +5793,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 43.18 0)
+				(at 77.47 60.96 0)
 				(length 2.54)
 				(name "HREQ0#"
 					(effects
@@ -5973,7 +5811,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 40.64 0)
+				(at 77.47 58.42 0)
 				(length 2.54)
 				(name "HREQ1#"
 					(effects
@@ -5991,7 +5829,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 38.1 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6009,7 +5847,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 35.56 0)
+				(at 77.47 50.8 0)
 				(length 2.54)
 				(name "HREQ4#"
 					(effects
@@ -6027,7 +5865,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 33.02 0)
+				(at -105.41 -55.88 0)
 				(length 2.54)
 				(name "DEFER#"
 					(effects
@@ -6045,7 +5883,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 55.88 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6063,7 +5901,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 53.34 0)
+				(at 45.72 87.63 0)
 				(length 2.54)
 				(name "CBE0#"
 					(effects
@@ -6081,7 +5919,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 50.8 0)
+				(at -110.49 64.77 0)
 				(length 2.54)
 				(name "AD9"
 					(effects
@@ -6099,7 +5937,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 48.26 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -6117,7 +5955,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 30.48 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6135,7 +5973,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 27.94 0)
+				(at -110.49 85.09 0)
 				(length 2.54)
 				(name "AD1"
 					(effects
@@ -6153,7 +5991,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 12.7 0)
+				(at -105.41 -30.48 0)
 				(length 2.54)
 				(name "ADS#"
 					(effects
@@ -6171,7 +6009,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 10.16 0)
+				(at -105.41 -101.6 0)
 				(length 2.54)
 				(name "HLOCK#"
 					(effects
@@ -6189,7 +6027,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 7.62 0)
+				(at -105.41 -58.42 0)
 				(length 2.54)
 				(name "DRDY#"
 					(effects
@@ -6207,7 +6045,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 5.08 0)
+				(at 77.47 55.88 0)
 				(length 2.54)
 				(name "HREQ2#"
 					(effects
@@ -6225,7 +6063,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 2.54 0)
+				(at 77.47 53.34 0)
 				(length 2.54)
 				(name "HREQ3#"
 					(effects
@@ -6243,7 +6081,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 0 0)
+				(at 80.01 -2.54 0)
 				(length 2.54)
 				(name "RS0#"
 					(effects
@@ -6261,7 +6099,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 25.4 0)
+				(at -110.49 80.01 0)
 				(length 2.54)
 				(name "AD3"
 					(effects
@@ -6279,7 +6117,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 22.86 0)
+				(at -110.49 82.55 0)
 				(length 2.54)
 				(name "AD2"
 					(effects
@@ -6297,7 +6135,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 20.32 0)
+				(at -110.49 77.47 0)
 				(length 2.54)
 				(name "AD4"
 					(effects
@@ -6314,26 +6152,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at -49.53 17.78 0)
-				(length 2.54)
-				(name "AD0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "K6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
-				(at -49.53 15.24 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6351,7 +6171,7 @@
 				)
 			)
 			(pin output line
-				(at -49.53 -2.54 0)
+				(at 115.57 54.61 0)
 				(length 2.54)
 				(name "ST1"
 					(effects
@@ -6369,7 +6189,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 41.91 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -6387,7 +6207,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 39.37 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6405,61 +6225,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 36.83 0)
-				(length 2.54)
-				(name "VCC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "L13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 34.29 0)
-				(length 2.54)
-				(name "VC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "L14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 31.75 0)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "L15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 29.21 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -6477,7 +6243,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -5.08 0)
+				(at 137.16 87.63 0)
 				(length 2.54)
 				(name "SBA0"
 					(effects
@@ -6495,7 +6261,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -20.32 0)
+				(at -105.41 -96.52 0)
 				(length 2.54)
 				(name "HITM"
 					(effects
@@ -6513,7 +6279,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 -22.86 0)
+				(at -105.41 -45.72 0)
 				(length 2.54)
 				(name "DBSY#"
 					(effects
@@ -6531,7 +6297,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 -25.4 0)
+				(at -105.41 -99.06 0)
 				(length 2.54)
 				(name "HIT#"
 					(effects
@@ -6549,7 +6315,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 -27.94 0)
+				(at 80.01 -7.62 0)
 				(length 2.54)
 				(name "RS2#"
 					(effects
@@ -6566,26 +6332,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at -49.53 -30.48 0)
-				(length 2.54)
-				(name "RS1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "L26"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin output line
-				(at -49.53 -7.62 0)
+				(at -105.41 -73.66 0)
 				(length 2.54)
 				(name "GGNT#"
 					(effects
@@ -6603,7 +6351,7 @@
 				)
 			)
 			(pin output line
-				(at -49.53 -10.16 0)
+				(at 115.57 57.15 0)
 				(length 2.54)
 				(name "ST0"
 					(effects
@@ -6621,25 +6369,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -12.7 0)
-				(length 2.54)
-				(name "GREQ#"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "L5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -49.53 -15.24 0)
+				(at -73.66 93.98 0)
 				(length 2.54)
 				(name "VCCQ"
 					(effects
@@ -6657,7 +6387,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 -17.78 0)
+				(at -73.66 93.98 0)
 				(length 2.54)
 				(name "VCCQ"
 					(effects
@@ -6675,7 +6405,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -33.02 0)
+				(at 137.16 82.55 0)
 				(length 2.54)
 				(name "SBA2"
 					(effects
@@ -6693,7 +6423,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 26.67 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6711,7 +6441,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 24.13 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -6729,7 +6459,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 21.59 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6747,7 +6477,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 19.05 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6765,7 +6495,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 16.51 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -6783,7 +6513,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 13.97 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6801,7 +6531,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -35.56 0)
+				(at 137.16 85.09 0)
 				(length 2.54)
 				(name "SBA1"
 					(effects
@@ -6819,7 +6549,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 -48.26 0)
+				(at -132.08 93.98 0)
 				(length 2.54)
 				(name "GNDA"
 					(effects
@@ -6837,7 +6567,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 -50.8 0)
+				(at -132.08 93.98 0)
 				(length 2.54)
 				(name "GNDA"
 					(effects
@@ -6855,7 +6585,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -53.34 0)
+				(at 82.55 93.98 0)
 				(length 2.54)
 				(name "GTLREF"
 					(effects
@@ -6873,7 +6603,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 -55.88 0)
+				(at 12.7 93.98 0)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -6891,7 +6621,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -58.42 0)
+				(at -105.41 -157.48 0)
 				(length 2.54)
 				(name "TESTIN#"
 					(effects
@@ -6909,7 +6639,7 @@
 				)
 			)
 			(pin output line
-				(at -49.53 -60.96 0)
+				(at -105.41 -40.64 0)
 				(length 2.54)
 				(name "CPURSTD#"
 					(effects
@@ -6927,7 +6657,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -38.1 0)
+				(at -105.41 -78.74 0)
 				(length 2.54)
 				(name "GPIPE#"
 					(effects
@@ -6945,7 +6675,7 @@
 				)
 			)
 			(pin output line
-				(at -49.53 -40.64 0)
+				(at 115.57 52.07 0)
 				(length 2.54)
 				(name "ST2"
 					(effects
@@ -6963,7 +6693,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -43.18 0)
+				(at -105.41 -132.08 0)
 				(length 2.54)
 				(name "SBS#"
 					(effects
@@ -6981,7 +6711,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -45.72 0)
+				(at -105.41 -91.44 0)
 				(length 2.54)
 				(name "GWBF#"
 					(effects
@@ -6999,7 +6729,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 -63.5 0)
+				(at 66.04 93.98 0)
 				(length 2.54)
 				(name "AGPREF"
 					(effects
@@ -7017,7 +6747,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 11.43 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -7035,7 +6765,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 8.89 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7053,7 +6783,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 6.35 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7071,7 +6801,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 3.81 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7089,7 +6819,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 1.27 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7107,7 +6837,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -1.27 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -7125,7 +6855,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -66.04 0)
+				(at 137.16 80.01 0)
 				(length 2.54)
 				(name "SBA3"
 					(effects
@@ -7143,7 +6873,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 -81.28 0)
+				(at -55.88 93.98 0)
 				(length 2.54)
 				(name "VCCA"
 					(effects
@@ -7161,7 +6891,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 -83.82 0)
+				(at -55.88 93.98 0)
 				(length 2.54)
 				(name "VCCA"
 					(effects
@@ -7179,7 +6909,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -86.36 0)
+				(at -105.41 -93.98 0)
 				(length 2.54)
 				(name "HCLK"
 					(effects
@@ -7197,7 +6927,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 -88.9 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7215,7 +6945,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -49.53 -91.44 0)
+				(at -36.83 -72.39 0)
 				(length 2.54)
 				(name "MD63"
 					(effects
@@ -7233,7 +6963,7 @@
 				)
 			)
 			(pin power_in line
-				(at -49.53 -93.98 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -7251,7 +6981,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -68.58 0)
+				(at -105.41 -129.54 0)
 				(length 2.54)
 				(name "SBS"
 					(effects
@@ -7269,7 +6999,7 @@
 				)
 			)
 			(pin output line
-				(at -49.53 -71.12 0)
+				(at 90.17 10.16 0)
 				(length 2.54)
 				(name "GCLKO"
 					(effects
@@ -7287,7 +7017,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -73.66 0)
+				(at -105.41 -63.5 0)
 				(length 2.54)
 				(name "GCLK"
 					(effects
@@ -7305,7 +7035,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -76.2 0)
+				(at -105.41 -81.28 0)
 				(length 2.54)
 				(name "GRBF#"
 					(effects
@@ -7322,26 +7052,8 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at -49.53 -78.74 0)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "N7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin input line
-				(at -49.53 -96.52 0)
+				(at 137.16 69.85 0)
 				(length 2.54)
 				(name "SBA7"
 					(effects
@@ -7359,25 +7071,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -3.81 0)
-				(length 2.54)
-				(name "VCC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "P11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 -6.35 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7395,25 +7089,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -8.89 0)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "P13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 109.22 -11.43 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7431,7 +7107,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -13.97 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7449,7 +7125,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -16.51 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -7467,7 +7143,7 @@
 				)
 			)
 			(pin input line
-				(at -49.53 -99.06 0)
+				(at 137.16 72.39 0)
 				(length 2.54)
 				(name "SBA6"
 					(effects
@@ -7485,7 +7161,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 86.36 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7503,7 +7179,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 83.82 0)
+				(at -36.83 -69.85 0)
 				(length 2.54)
 				(name "MD62"
 					(effects
@@ -7521,7 +7197,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 81.28 0)
+				(at -36.83 11.43 0)
 				(length 2.54)
 				(name "MD30"
 					(effects
@@ -7539,7 +7215,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 78.74 0)
+				(at -36.83 8.89 0)
 				(length 2.54)
 				(name "MD31"
 					(effects
@@ -7556,26 +7232,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 13.97 76.2 0)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "P26"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin power_in line
-				(at 13.97 99.06 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7593,7 +7251,7 @@
 				)
 			)
 			(pin input line
-				(at 13.97 96.52 0)
+				(at 137.16 77.47 0)
 				(length 2.54)
 				(name "SBA4"
 					(effects
@@ -7611,7 +7269,7 @@
 				)
 			)
 			(pin input line
-				(at 13.97 93.98 0)
+				(at 137.16 74.93 0)
 				(length 2.54)
 				(name "SBA5"
 					(effects
@@ -7629,7 +7287,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 91.44 0)
+				(at -12.7 11.43 0)
 				(length 2.54)
 				(name "GD30"
 					(effects
@@ -7647,7 +7305,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 88.9 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7665,7 +7323,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 73.66 0)
+				(at -12.7 8.89 0)
 				(length 2.54)
 				(name "GD31"
 					(effects
@@ -7683,7 +7341,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -19.05 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7701,7 +7359,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -21.59 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -7719,7 +7377,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -24.13 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7737,7 +7395,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -26.67 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7755,7 +7413,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -29.21 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -7773,7 +7431,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -31.75 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7791,7 +7449,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 71.12 0)
+				(at -12.7 13.97 0)
 				(length 2.54)
 				(name "GD29"
 					(effects
@@ -7809,7 +7467,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 55.88 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -7827,7 +7485,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 53.34 0)
+				(at -36.83 16.51 0)
 				(length 2.54)
 				(name "MD28"
 					(effects
@@ -7845,7 +7503,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 50.8 0)
+				(at -36.83 -64.77 0)
 				(length 2.54)
 				(name "MD60"
 					(effects
@@ -7863,7 +7521,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 48.26 0)
+				(at -36.83 -67.31 0)
 				(length 2.54)
 				(name "MD61"
 					(effects
@@ -7881,7 +7539,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 45.72 0)
+				(at -36.83 13.97 0)
 				(length 2.54)
 				(name "MD29"
 					(effects
@@ -7898,26 +7556,8 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at 13.97 68.58 0)
-				(length 2.54)
-				(name "VCCQ"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "R3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
-				(at 13.97 66.04 0)
+				(at -12.7 19.05 0)
 				(length 2.54)
 				(name "GD27"
 					(effects
@@ -7935,7 +7575,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 63.5 0)
+				(at -12.7 26.67 0)
 				(length 2.54)
 				(name "GD24"
 					(effects
@@ -7953,7 +7593,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 60.96 0)
+				(at -73.66 93.98 0)
 				(length 2.54)
 				(name "VCCQ"
 					(effects
@@ -7971,7 +7611,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 58.42 0)
+				(at -73.66 93.98 0)
 				(length 2.54)
 				(name "VCCQ"
 					(effects
@@ -7989,7 +7629,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 43.18 0)
+				(at -12.7 21.59 0)
 				(length 2.54)
 				(name "GD26"
 					(effects
@@ -8007,7 +7647,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -34.29 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -8025,7 +7665,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -36.83 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -8043,7 +7683,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -39.37 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -8061,7 +7701,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -41.91 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -8079,7 +7719,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -44.45 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -8097,7 +7737,7 @@
 				)
 			)
 			(pin power_in line
-				(at 109.22 -46.99 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -8115,7 +7755,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 40.64 0)
+				(at -12.7 29.21 0)
 				(length 2.54)
 				(name "GD23"
 					(effects
@@ -8133,7 +7773,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 27.94 0)
+				(at -36.83 -57.15 0)
 				(length 2.54)
 				(name "MD57"
 					(effects
@@ -8151,7 +7791,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 25.4 0)
+				(at -36.83 -59.69 0)
 				(length 2.54)
 				(name "MD58"
 					(effects
@@ -8169,7 +7809,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 22.86 0)
+				(at -36.83 24.13 0)
 				(length 2.54)
 				(name "MD25"
 					(effects
@@ -8187,7 +7827,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 20.32 0)
+				(at -36.83 21.59 0)
 				(length 2.54)
 				(name "MD26"
 					(effects
@@ -8205,7 +7845,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 17.78 0)
+				(at -36.83 -62.23 0)
 				(length 2.54)
 				(name "MD59"
 					(effects
@@ -8223,7 +7863,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 38.1 0)
+				(at 45.72 67.31 0)
 				(length 2.54)
 				(name "GBE3#"
 					(effects
@@ -8241,7 +7881,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 35.56 0)
+				(at -12.7 36.83 0)
 				(length 2.54)
 				(name "GD20"
 					(effects
@@ -8259,7 +7899,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 33.02 0)
+				(at 64.77 5.08 0)
 				(length 2.54)
 				(name "GDS1#"
 					(effects
@@ -8277,7 +7917,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 30.48 0)
+				(at 64.77 2.54 0)
 				(length 2.54)
 				(name "GDS1"
 					(effects
@@ -8295,7 +7935,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 15.24 0)
+				(at -12.7 31.75 0)
 				(length 2.54)
 				(name "GD22"
 					(effects
@@ -8313,7 +7953,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 12.7 0)
+				(at -12.7 24.13 0)
 				(length 2.54)
 				(name "GD25"
 					(effects
@@ -8331,7 +7971,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -2.54 0)
+				(at -36.83 19.05 0)
 				(length 2.54)
 				(name "MD27"
 					(effects
@@ -8349,7 +7989,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -5.08 0)
+				(at -36.83 31.75 0)
 				(length 2.54)
 				(name "MD22"
 					(effects
@@ -8367,7 +8007,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -7.62 0)
+				(at -36.83 -54.61 0)
 				(length 2.54)
 				(name "MD56"
 					(effects
@@ -8385,7 +8025,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -10.16 0)
+				(at -36.83 -52.07 0)
 				(length 2.54)
 				(name "MD55"
 					(effects
@@ -8403,7 +8043,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -12.7 0)
+				(at -36.83 29.21 0)
 				(length 2.54)
 				(name "MD23"
 					(effects
@@ -8421,7 +8061,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -15.24 0)
+				(at -36.83 26.67 0)
 				(length 2.54)
 				(name "MD24"
 					(effects
@@ -8439,7 +8079,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 10.16 0)
+				(at -12.7 39.37 0)
 				(length 2.54)
 				(name "GD19"
 					(effects
@@ -8457,7 +8097,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 7.62 0)
+				(at -12.7 41.91 0)
 				(length 2.54)
 				(name "GD18"
 					(effects
@@ -8475,7 +8115,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 5.08 0)
+				(at 83.82 -12.7 0)
 				(length 2.54)
 				(name "GDS0#"
 					(effects
@@ -8493,7 +8133,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 2.54 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -8511,7 +8151,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 0 0)
+				(at -132.08 93.98 0)
 				(length 2.54)
 				(name "GNDA"
 					(effects
@@ -8529,7 +8169,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -17.78 0)
+				(at -12.7 44.45 0)
 				(length 2.54)
 				(name "GD17"
 					(effects
@@ -8547,7 +8187,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -20.32 0)
+				(at -12.7 46.99 0)
 				(length 2.54)
 				(name "GD16"
 					(effects
@@ -8565,7 +8205,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -33.02 0)
+				(at -113.03 93.98 0)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -8583,7 +8223,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -35.56 0)
+				(at -36.83 39.37 0)
 				(length 2.54)
 				(name "MD19"
 					(effects
@@ -8601,7 +8241,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -38.1 0)
+				(at -36.83 36.83 0)
 				(length 2.54)
 				(name "MD20"
 					(effects
@@ -8619,7 +8259,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -40.64 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -8637,7 +8277,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -43.18 0)
+				(at -36.83 34.29 0)
 				(length 2.54)
 				(name "MD21"
 					(effects
@@ -8655,7 +8295,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -45.72 0)
+				(at -36.83 -49.53 0)
 				(length 2.54)
 				(name "MD54"
 					(effects
@@ -8673,7 +8313,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -22.86 0)
+				(at -12.7 16.51 0)
 				(length 2.54)
 				(name "GD28"
 					(effects
@@ -8691,7 +8331,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -25.4 0)
+				(at -105.41 -86.36 0)
 				(length 2.54)
 				(name "GSTOP#"
 					(effects
@@ -8709,7 +8349,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -27.94 0)
+				(at 45.72 69.85 0)
 				(length 2.54)
 				(name "GBE2#"
 					(effects
@@ -8727,7 +8367,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -30.48 0)
+				(at -55.88 93.98 0)
 				(length 2.54)
 				(name "VCCA"
 					(effects
@@ -8745,7 +8385,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -48.26 0)
+				(at -12.7 34.29 0)
 				(length 2.54)
 				(name "GD21"
 					(effects
@@ -8763,7 +8403,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -50.8 0)
+				(at -105.41 -71.12 0)
 				(length 2.54)
 				(name "GFRM#"
 					(effects
@@ -8781,7 +8421,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -63.5 0)
+				(at -132.08 93.98 0)
 				(length 2.54)
 				(name "GNDA"
 					(effects
@@ -8799,7 +8439,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -66.04 0)
+				(at -36.83 41.91 0)
 				(length 2.54)
 				(name "MD18"
 					(effects
@@ -8817,7 +8457,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -68.58 0)
+				(at -36.83 -39.37 0)
 				(length 2.54)
 				(name "MD50"
 					(effects
@@ -8835,7 +8475,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -71.12 0)
+				(at -36.83 -41.91 0)
 				(length 2.54)
 				(name "MD51"
 					(effects
@@ -8853,7 +8493,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -73.66 0)
+				(at -36.83 -46.99 0)
 				(length 2.54)
 				(name "MD53"
 					(effects
@@ -8871,7 +8511,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -76.2 0)
+				(at -36.83 -44.45 0)
 				(length 2.54)
 				(name "MD52"
 					(effects
@@ -8889,7 +8529,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -53.34 0)
+				(at -105.41 -68.58 0)
 				(length 2.54)
 				(name "GIRDY#"
 					(effects
@@ -8907,9 +8547,9 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -55.88 0)
+				(at -12.7 49.53 0)
 				(length 2.54)
-				(name "GSTOP#"
+				(name "GD15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8925,7 +8565,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -58.42 0)
+				(at -105.41 -66.04 0)
 				(length 2.54)
 				(name "GDSEL#"
 					(effects
@@ -8943,7 +8583,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -60.96 0)
+				(at -34.29 93.98 0)
 				(length 2.54)
 				(name "VCCQ"
 					(effects
@@ -8961,7 +8601,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -78.74 0)
+				(at -105.41 -76.2 0)
 				(length 2.54)
 				(name "GPAR"
 					(effects
@@ -8979,7 +8619,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -81.28 0)
+				(at -105.41 -88.9 0)
 				(length 2.54)
 				(name "GTRDY#"
 					(effects
@@ -8997,7 +8637,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -99.06 0)
+				(at -55.88 93.98 0)
 				(length 2.54)
 				(name "VCCA"
 					(effects
@@ -9015,7 +8655,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -101.6 0)
+				(at 120.65 80.01 0)
 				(length 2.54)
 				(name "MECC3"
 					(effects
@@ -9033,7 +8673,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -104.14 0)
+				(at -36.83 46.99 0)
 				(length 2.54)
 				(name "MD16"
 					(effects
@@ -9051,7 +8691,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -106.68 0)
+				(at -36.83 -34.29 0)
 				(length 2.54)
 				(name "MD48"
 					(effects
@@ -9069,7 +8709,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -109.22 0)
+				(at -36.83 -36.83 0)
 				(length 2.54)
 				(name "MD49"
 					(effects
@@ -9087,7 +8727,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -111.76 0)
+				(at -36.83 44.45 0)
 				(length 2.54)
 				(name "MD17"
 					(effects
@@ -9105,7 +8745,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -83.82 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -9123,7 +8763,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -86.36 0)
+				(at 45.72 72.39 0)
 				(length 2.54)
 				(name "GBE1#"
 					(effects
@@ -9141,7 +8781,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 13.97 -88.9 0)
+				(at 83.82 -15.24 0)
 				(length 2.54)
 				(name "GDS0"
 					(effects
@@ -9159,7 +8799,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -91.44 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -9177,7 +8817,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -93.98 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -9195,7 +8835,7 @@
 				)
 			)
 			(pin power_in line
-				(at 13.97 -96.52 0)
+				(at -92.71 93.98 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -9205,6 +8845,386 @@
 					)
 				)
 				(number "Y8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "VT82C694X_1_0"
+			(pin bidirectional line
+				(at -12.7 54.61 0)
+				(length 2.54)
+				(name "GD13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AA1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 22.86 69.85 0)
+				(length 2.54)
+				(name "MAB7#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AB19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -36.83 -26.67 0)
+				(length 2.54)
+				(name "MD45"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AC10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -12.7 85.09 0)
+				(length 2.54)
+				(name "GD1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AE1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 187.96 74.93 0)
+				(length 2.54)
+				(name "CKE5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AF24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -92.71 93.98 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AF26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -62.23 -44.45 0)
+				(length 2.54)
+				(name "HD52#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 63.5 80.01 0)
+				(length 2.54)
+				(name "GNT3#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "E8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 171.45 82.55 0)
+				(length 2.54)
+				(name "REQ2#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "F10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -113.03 93.98 0)
+				(length 2.54)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "F20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -110.49 87.63 0)
+				(length 2.54)
+				(name "AD0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "K6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -113.03 93.98 0)
+				(length 2.54)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -113.03 93.98 0)
+				(length 2.54)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -92.71 93.98 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 80.01 -5.08 0)
+				(length 2.54)
+				(name "RS1#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -105.41 -83.82 0)
+				(length 2.54)
+				(name "GREQ#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "L5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -92.71 93.98 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "N7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -113.03 93.98 0)
+				(length 2.54)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -92.71 93.98 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -92.71 93.98 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "P26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -73.66 93.98 0)
+				(length 2.54)
+				(name "VCCQ"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "R3"
 					(effects
 						(font
 							(size 1.27 1.27)
