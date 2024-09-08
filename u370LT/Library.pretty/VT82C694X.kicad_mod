@@ -1,9 +1,9 @@
-(footprint "BGA-676_26x26_35.0x35.0mm"
+(footprint "VT82C694X"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(property "Reference" "VT82C694X"
+	(property "Reference" "REF**"
 		(at 0 -18.5 0)
 		(layer "F.SilkS")
 		(uuid "dddd5727-4837-4649-8151-7f7e5bf5d851")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "BGA-676_26x26_35.0x35.0mm"
+	(property "Value" "VT82C694X"
 		(at 0 18.5 0)
 		(layer "F.Fab")
 		(uuid "8a0218db-54d7-4700-b77e-8efec1fda4c6")

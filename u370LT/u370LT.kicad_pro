@@ -603,6 +603,14 @@
     [
       "9d7e6f17-465e-456f-9093-64606a000e00",
       "Root"
+    ],
+    [
+      "5df5fa28-9008-41b7-b2b9-5c1e5620611a",
+      "North Bridge"
+    ],
+    [
+      "dab9158d-5a84-43cf-a229-d188df3334ec",
+      "South Bridge"
     ]
   ],
   "text_variables": {}
