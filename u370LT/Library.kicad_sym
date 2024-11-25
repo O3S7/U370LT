@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 23.114 0)
+			(at -9.398 149.352 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15,7 +15,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 0)
+			(at -22.86 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 0)
+			(at -22.86 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,7 +32,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at -22.86 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41,7 +41,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at -22.86 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51,7 +51,7 @@
 		)
 		(symbol "PGA370_0_0"
 			(pin bidirectional line
-				(at 0 -243.84 0)
+				(at -59.69 -33.02 0)
 				(length 2.54)
 				(name "D44#"
 					(effects
@@ -69,7 +69,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -261.62 0)
+				(at -59.69 -50.8 0)
 				(length 2.54)
 				(name "D51#"
 					(effects
@@ -87,7 +87,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -251.46 0)
+				(at -59.69 -40.64 0)
 				(length 2.54)
 				(name "D47#"
 					(effects
@@ -105,7 +105,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -254 0)
+				(at -59.69 -43.18 0)
 				(length 2.54)
 				(name "D48#"
 					(effects
@@ -123,7 +123,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -276.86 0)
+				(at -59.69 -66.04 0)
 				(length 2.54)
 				(name "D57#"
 					(effects
@@ -141,7 +141,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -248.92 0)
+				(at -59.69 -38.1 0)
 				(length 2.54)
 				(name "D46#"
 					(effects
@@ -159,7 +159,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -266.7 0)
+				(at -59.69 -55.88 0)
 				(length 2.54)
 				(name "D53#"
 					(effects
@@ -177,7 +177,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -284.48 0)
+				(at -59.69 -73.66 0)
 				(length 2.54)
 				(name "D60#"
 					(effects
@@ -195,7 +195,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -287.02 0)
+				(at -59.69 -76.2 0)
 				(length 2.54)
 				(name "D61#"
 					(effects
@@ -213,7 +213,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -317.5 0)
+				(at 39.37 -2.54 0)
 				(length 2.54)
 				(name "DEP7#"
 					(effects
@@ -231,7 +231,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -205.74 0)
+				(at -59.69 5.08 0)
 				(length 2.54)
 				(name "D29#"
 					(effects
@@ -249,7 +249,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -307.34 0)
+				(at 39.37 7.62 0)
 				(length 2.54)
 				(name "DEP3#"
 					(effects
@@ -267,7 +267,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -304.8 0)
+				(at 39.37 10.16 0)
 				(length 2.54)
 				(name "DEP2#"
 					(effects
@@ -285,7 +285,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -558.8 0)
+				(at 69.85 50.8 180)
 				(length 2.54)
 				(name "PRDY#"
 					(effects
@@ -303,7 +303,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -429.26 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -321,7 +321,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -203.2 0)
+				(at -59.69 7.62 0)
 				(length 2.54)
 				(name "D28#"
 					(effects
@@ -339,7 +339,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -241.3 0)
+				(at -59.69 -30.48 0)
 				(length 2.54)
 				(name "D43#"
 					(effects
@@ -357,7 +357,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -226.06 0)
+				(at -59.69 -15.24 0)
 				(length 2.54)
 				(name "D37#"
 					(effects
@@ -375,7 +375,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -63.5 0)
+				(at -22.86 17.78 180)
 				(length 2.54)
 				(name "A27#"
 					(effects
@@ -393,7 +393,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -71.12 0)
+				(at -22.86 10.16 180)
 				(length 2.54)
 				(name "A30#"
 					(effects
@@ -411,7 +411,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -955.04 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -429,7 +429,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -957.58 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -447,16 +447,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -683.26 0)
+				(at -24.13 -64.77 180)
 				(length 2.54)
-				(name ""
+				(name "VCCCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AA37_VCCCORE_Power/Other"
+				(number "AA37"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -465,16 +465,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -685.8 0)
+				(at -24.13 -64.77 180)
 				(length 2.54)
-				(name ""
+				(name "VCCCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AA5_VCCCORE_Power/Other"
+				(number "AA5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -483,16 +483,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -688.34 0)
+				(at -24.13 -64.77 180)
 				(length 2.54)
-				(name ""
+				(name "VCCCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AB2_VCCCORE_Power/Other"
+				(number "AB2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -501,7 +501,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -431.8 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -519,16 +519,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -690.88 0)
+				(at -24.13 -64.77 180)
 				(length 2.54)
-				(name ""
+				(name "VCCCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AB34_VCCCORE_Power/Other"
+				(number "AB34"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -537,16 +537,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -680.72 0)
+				(at -24.13 -62.23 180)
 				(length 2.54)
-				(name ""
+				(name "VCCCMOS"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AB36_VCCCMOS_Power/Other"
+				(number "AB36"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -555,7 +555,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -55.88 0)
+				(at -22.86 25.4 180)
 				(length 2.54)
 				(name "A24#"
 					(effects
@@ -573,7 +573,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -53.34 0)
+				(at -22.86 27.94 180)
 				(length 2.54)
 				(name "A23#"
 					(effects
@@ -591,7 +591,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -78.74 0)
+				(at -22.86 2.54 180)
 				(length 2.54)
 				(name "A33#"
 					(effects
@@ -609,7 +609,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -43.18 0)
+				(at -22.86 35.56 180)
 				(length 2.54)
 				(name "A20#"
 					(effects
@@ -627,7 +627,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -434.34 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -645,7 +645,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -325.12 0)
+				(at 39.37 -10.16 0)
 				(length 2.54)
 				(name "FERR#"
 					(effects
@@ -663,16 +663,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -637.54 0)
+				(at 69.85 17.78 180)
 				(length 2.54)
-				(name ""
+				(name "RSP#"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AC37_RSP#_AGTL+_Input"
+				(number "AC37"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -681,7 +681,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -436.88 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -699,7 +699,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -439.42 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -717,16 +717,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -693.42 0)
+				(at -24.13 -64.77 180)
 				(length 2.54)
-				(name ""
+				(name "VCCCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AD32_VCCCORE_Power/Other"
+				(number "AD32"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -735,7 +735,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -441.96 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -753,16 +753,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -675.64 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
-				(name ""
+				(name "VTT"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AD36_VCC1.5_3_Power/Other"
+				(number "AD36"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -771,7 +771,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -73.66 0)
+				(at -22.86 7.62 180)
 				(length 2.54)
 				(name "A31#"
 					(effects
@@ -789,7 +789,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -929.64 0)
+				(at -24.13 -67.31 180)
 				(length 2.54)
 				(name "VREF"
 					(effects
@@ -807,7 +807,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -35.56 0)
+				(at -22.86 43.18 180)
 				(length 2.54)
 				(name "A17#"
 					(effects
@@ -825,7 +825,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -50.8 0)
+				(at -22.86 30.48 180)
 				(length 2.54)
 				(name "A22#"
 					(effects
@@ -843,7 +843,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -45.72 0)
+				(at 39.37 68.58 0)
 				(length 2.54)
 				(name "A20M#"
 					(effects
@@ -861,7 +861,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -530.86 0)
+				(at 39.37 -20.32 0)
 				(length 2.54)
 				(name "IERR#"
 					(effects
@@ -879,7 +879,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -327.66 0)
+				(at 39.37 -12.7 0)
 				(length 2.54)
 				(name "FLUSH#"
 					(effects
@@ -897,16 +897,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -695.96 0)
+				(at -24.13 -64.77 180)
 				(length 2.54)
-				(name ""
+				(name "VCCCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AE5_VCCCORE_Power/Other"
+				(number "AE5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -914,8 +914,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -772.16 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -933,7 +933,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -444.5 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -950,8 +950,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -876.3 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AF34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -969,25 +987,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -774.7 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AF34"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -447.04 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1005,7 +1005,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -83.82 0)
+				(at -22.86 -2.54 180)
 				(length 2.54)
 				(name "A35#"
 					(effects
@@ -1023,7 +1023,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -58.42 0)
+				(at -22.86 22.86 180)
 				(length 2.54)
 				(name "A25#"
 					(effects
@@ -1041,7 +1041,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -322.58 0)
+				(at 39.37 -7.62 0)
 				(length 2.54)
 				(name "EDGCTRL"
 					(effects
@@ -1059,7 +1059,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -40.64 0)
+				(at -22.86 38.1 180)
 				(length 2.54)
 				(name "A19#"
 					(effects
@@ -1077,7 +1077,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -535.94 0)
+				(at 39.37 -25.4 0)
 				(length 2.54)
 				(name "INIT#"
 					(effects
@@ -1095,16 +1095,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -650.24 0)
+				(at 69.85 5.08 180)
 				(length 2.54)
-				(name ""
+				(name "STPCLK#"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AG35_STPCLK#_CMOS_Input"
+				(number "AG35"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1113,7 +1113,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -533.4 0)
+				(at 39.37 -22.86 0)
 				(length 2.54)
 				(name "IGNNE#"
 					(effects
@@ -1131,7 +1131,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -449.58 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1149,7 +1149,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -12.7 0)
+				(at -22.86 66.04 180)
 				(length 2.54)
 				(name "A8#"
 					(effects
@@ -1167,7 +1167,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -2.54 0)
+				(at -22.86 76.2 180)
 				(length 2.54)
 				(name "A4#"
 					(effects
@@ -1185,7 +1185,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -101.6 0)
+				(at 39.37 50.8 0)
 				(length 2.54)
 				(name "BNR#"
 					(effects
@@ -1203,7 +1203,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -568.96 0)
+				(at 69.85 40.64 180)
 				(length 2.54)
 				(name "REQ1#"
 					(effects
@@ -1221,7 +1221,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -571.5 0)
+				(at 69.85 38.1 180)
 				(length 2.54)
 				(name "REQ2#"
 					(effects
@@ -1239,7 +1239,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -452.12 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1257,7 +1257,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -937.26 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -1275,16 +1275,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -632.46 0)
+				(at 69.85 22.86 180)
 				(length 2.54)
-				(name ""
+				(name "RS1#"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AH22_RS1#_AGTL+_Input"
+				(number "AH22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1292,8 +1292,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -878.84 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AH24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -1311,7 +1329,61 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -777.24 0)
+				(at 69.85 25.4 180)
+				(length 2.54)
+				(name "RS0#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AH26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 69.85 -10.16 180)
+				(length 2.54)
+				(name "THERMTRIP#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AH28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 69.85 10.16 180)
+				(length 2.54)
+				(name "SLP#"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AH30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -1320,7 +1392,7 @@
 						)
 					)
 				)
-				(number "AH24"
+				(number "AH32"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1328,62 +1400,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -629.92 0)
-				(length 2.54)
-				(name ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AH26_RS0#_AGTL_+_Input"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -665.48 0)
-				(length 2.54)
-				(name ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AH28_THERMTRIP#_CMOS_Output"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -645.16 0)
-				(length 2.54)
-				(name ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AH30_SLP#_CMOS_Input"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -881.38 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -1401,25 +1419,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -779.78 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AH32"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -454.66 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1436,8 +1436,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -883.92 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AH36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -1455,16 +1473,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -782.32 0)
+				(at 69.85 30.48 180)
 				(length 2.54)
-				(name "VCCCORE"
+				(name "RESET#"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AH36"
+				(number "AH4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1473,25 +1491,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -622.3 0)
-				(length 2.54)
-				(name ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AH4_RESET#_2_AGTL+_Input"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -17.78 0)
+				(at -22.86 60.96 180)
 				(length 2.54)
 				(name "A10#"
 					(effects
@@ -1509,7 +1509,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -5.08 0)
+				(at -22.86 73.66 180)
 				(length 2.54)
 				(name "A5#"
 					(effects
@@ -1527,7 +1527,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -7.62 0)
+				(at -22.86 71.12 180)
 				(length 2.54)
 				(name "A6#"
 					(effects
@@ -1545,7 +1545,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -48.26 0)
+				(at -22.86 33.02 180)
 				(length 2.54)
 				(name "A21#"
 					(effects
@@ -1563,7 +1563,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -457.2 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1580,8 +1580,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -886.46 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AJ13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -1599,25 +1617,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -784.86 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AJ13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -459.74 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1634,8 +1634,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -889 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AJ17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -1653,25 +1671,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -787.4 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AJ17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -462.28 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1688,8 +1688,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -891.54 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AJ21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -1707,25 +1725,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -789.94 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AJ21"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -464.82 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1742,8 +1742,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -894.08 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AJ25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -1761,25 +1779,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -792.48 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AJ25"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -467.36 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1796,8 +1796,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -896.62 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AJ29"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -1815,25 +1833,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -795.02 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AJ29"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -469.9 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1851,7 +1851,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -124.46 0)
+				(at 39.37 27.94 0)
 				(length 2.54)
 				(name "BSEL1"
 					(effects
@@ -1869,7 +1869,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -121.92 0)
+				(at 39.37 30.48 0)
 				(length 2.54)
 				(name "BSEL0"
 					(effects
@@ -1887,16 +1887,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -647.7 0)
+				(at 69.85 7.62 180)
 				(length 2.54)
-				(name ""
+				(name "SMI#"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AJ35_SMI#_CMOS_Input"
+				(number "AJ35"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1905,7 +1905,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -914.4 0)
+				(at 69.85 -27.94 180)
 				(length 2.54)
 				(name "VID3"
 					(effects
@@ -1922,8 +1922,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -899.16 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AJ5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -1941,25 +1959,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -797.56 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AJ5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -472.44 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1976,8 +1976,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -868.68 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -1995,7 +1995,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -20.32 0)
+				(at -22.86 58.42 180)
 				(length 2.54)
 				(name "A11#"
 					(effects
@@ -2013,7 +2013,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -932.18 0)
+				(at -24.13 -67.31 180)
 				(length 2.54)
 				(name "VREF"
 					(effects
@@ -2031,7 +2031,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -27.94 0)
+				(at -22.86 50.8 180)
 				(length 2.54)
 				(name "A14#"
 					(effects
@@ -2049,7 +2049,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -939.8 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -2067,7 +2067,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -566.42 0)
+				(at 69.85 43.18 180)
 				(length 2.54)
 				(name "REQ0#"
 					(effects
@@ -2084,8 +2084,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -901.7 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AK2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -2103,25 +2121,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -800.1 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AK2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -543.56 0)
+				(at 69.85 66.04 180)
 				(length 2.54)
 				(name "LOCK#"
 					(effects
@@ -2139,7 +2139,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -934.72 0)
+				(at -24.13 -67.31 180)
 				(length 2.54)
 				(name "VREF"
 					(effects
@@ -2157,7 +2157,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -88.9 0)
+				(at 39.37 63.5 0)
 				(length 2.54)
 				(name "AERR#"
 					(effects
@@ -2175,7 +2175,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -563.88 0)
+				(at 69.85 45.72 180)
 				(length 2.54)
 				(name "PWRGOOD"
 					(effects
@@ -2193,16 +2193,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -635 0)
+				(at 69.85 20.32 180)
 				(length 2.54)
-				(name ""
+				(name "RS2#"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AK28_RS2#_AGTL+_Input"
+				(number "AK28"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2211,16 +2211,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -607.06 0)
+				(at -24.13 -39.37 180)
 				(length 2.54)
-				(name ""
+				(name "Reserved"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AK30_Reserved_Reserved_for_future_use"
+				(number "AK30"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2229,16 +2229,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -668.02 0)
+				(at 69.85 -12.7 180)
 				(length 2.54)
-				(name ""
+				(name "TMS"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AK32_TMS_TAP_Input"
+				(number "AK32"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2246,8 +2246,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -904.24 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AK34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -2265,25 +2283,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -802.64 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AK34"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -474.98 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2301,7 +2301,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -477.52 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2319,7 +2319,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -66.04 0)
+				(at -22.86 15.24 180)
 				(length 2.54)
 				(name "A28#"
 					(effects
@@ -2337,7 +2337,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 0 0)
+				(at -22.86 78.74 180)
 				(length 2.54)
 				(name "A3#"
 					(effects
@@ -2355,7 +2355,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -480.06 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2373,7 +2373,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -91.44 0)
+				(at 39.37 60.96 0)
 				(length 2.54)
 				(name "AP0#"
 					(effects
@@ -2391,7 +2391,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -942.34 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -2409,7 +2409,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -10.16 0)
+				(at -22.86 68.58 180)
 				(length 2.54)
 				(name "A7#"
 					(effects
@@ -2427,7 +2427,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -576.58 0)
+				(at 69.85 33.02 180)
 				(length 2.54)
 				(name "REQ4#"
 					(effects
@@ -2445,7 +2445,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -574.04 0)
+				(at 69.85 35.56 180)
 				(length 2.54)
 				(name "REQ3#"
 					(effects
@@ -2463,7 +2463,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -944.88 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -2481,7 +2481,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -528.32 0)
+				(at 39.37 -17.78 0)
 				(length 2.54)
 				(name "HITM#"
 					(effects
@@ -2499,7 +2499,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -525.78 0)
+				(at 39.37 -15.24 0)
 				(length 2.54)
 				(name "HIT#"
 					(effects
@@ -2517,7 +2517,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -294.64 0)
+				(at 39.37 20.32 0)
 				(length 2.54)
 				(name "DBSY#"
 					(effects
@@ -2535,16 +2535,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -660.4 0)
+				(at 69.85 -5.08 180)
 				(length 2.54)
-				(name ""
+				(name "THERMDN"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AL29_THERMDN_Power/Other"
+				(number "AL29"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2553,7 +2553,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -482.6 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2571,16 +2571,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -662.94 0)
+				(at 69.85 -7.62 180)
 				(length 2.54)
-				(name ""
+				(name "THERMDP"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AL31_THERMDP_Power/Other"
+				(number "AL31"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2589,16 +2589,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -652.78 0)
+				(at 69.85 2.54 180)
 				(length 2.54)
-				(name ""
+				(name "TCK"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AL33_TCK_TAP_Input"
+				(number "AL33"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2607,7 +2607,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -871.22 0)
+				(at 69.85 -20.32 180)
 				(length 2.54)
 				(name "VID0"
 					(effects
@@ -2625,7 +2625,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -911.86 0)
+				(at 69.85 -25.4 180)
 				(length 2.54)
 				(name "VID2"
 					(effects
@@ -2643,7 +2643,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -30.48 0)
+				(at -22.86 48.26 180)
 				(length 2.54)
 				(name "A15#"
 					(effects
@@ -2661,7 +2661,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -25.4 0)
+				(at -22.86 53.34 180)
 				(length 2.54)
 				(name "A13#"
 					(effects
@@ -2679,7 +2679,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -15.24 0)
+				(at -22.86 63.5 180)
 				(length 2.54)
 				(name "A9#"
 					(effects
@@ -2697,7 +2697,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -485.14 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2714,8 +2714,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -906.78 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AM12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -2733,25 +2751,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -805.18 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AM12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -487.68 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2768,8 +2768,26 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -909.32 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AM16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -2787,25 +2805,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -807.72 0)
-				(length 2.54)
-				(name "VCCCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AM16"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -490.22 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2823,7 +2823,25 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -810.26 0)
+				(at 39.37 -27.94 0)
+				(length 2.54)
+				(name "KEY"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "AM2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -2841,7 +2859,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -330.2 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2858,8 +2876,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -812.8 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -2877,7 +2895,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -332.74 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2894,8 +2912,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -815.34 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -2913,25 +2931,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -609.6 0)
-				(length 2.54)
-				(name ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "AM2_6_Reserved_Reserved_for_future_use"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -335.28 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2948,8 +2948,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -817.88 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -2967,7 +2967,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -337.82 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -2985,7 +2985,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -873.76 0)
+				(at 69.85 -22.86 180)
 				(length 2.54)
 				(name "VID1"
 					(effects
@@ -3002,8 +3002,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -820.42 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -3021,7 +3021,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -340.36 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3038,8 +3038,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -822.96 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -3057,7 +3057,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -947.42 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -3075,7 +3075,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -93.98 0)
+				(at 39.37 58.42 0)
 				(length 2.54)
 				(name "AP1#"
 					(effects
@@ -3093,7 +3093,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -949.96 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -3111,7 +3111,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -114.3 0)
+				(at 39.37 38.1 0)
 				(length 2.54)
 				(name "BPRI#"
 					(effects
@@ -3129,7 +3129,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -297.18 0)
+				(at 39.37 17.78 0)
 				(length 2.54)
 				(name "DEFER#"
 					(effects
@@ -3147,7 +3147,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -960.12 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -3165,16 +3165,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -627.38 0)
+				(at 69.85 27.94 180)
 				(length 2.54)
-				(name ""
+				(name "RP#"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AN23_RP#_AGTL+_I/O"
+				(number "AN23"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3183,16 +3183,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -670.56 0)
+				(at 69.85 -15.24 180)
 				(length 2.54)
-				(name ""
+				(name "TRDY#"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AN25_TRDY#_AGTL+_Input"
+				(number "AN25"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3201,7 +3201,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -320.04 0)
+				(at 39.37 -5.08 0)
 				(length 2.54)
 				(name "DRDY#"
 					(effects
@@ -3219,7 +3219,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -116.84 0)
+				(at 39.37 35.56 0)
 				(length 2.54)
 				(name "BR0#"
 					(effects
@@ -3237,7 +3237,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -342.9 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3255,7 +3255,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -86.36 0)
+				(at 39.37 66.04 0)
 				(length 2.54)
 				(name "ADS#"
 					(effects
@@ -3273,16 +3273,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -673.1 0)
+				(at 69.85 -17.78 180)
 				(length 2.54)
-				(name ""
+				(name "TRST#"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AN33_TRST#_TAP_Input"
+				(number "AN33"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3291,16 +3291,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -655.32 0)
+				(at 69.85 0 180)
 				(length 2.54)
-				(name ""
+				(name "TDI"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AN35_TDI_TAP_Input"
+				(number "AN35"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3309,16 +3309,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -657.86 0)
+				(at 69.85 -2.54 180)
 				(length 2.54)
-				(name ""
+				(name "TDO"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "AN37_TDO_TAP_Output"
+				(number "AN37"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3327,7 +3327,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -22.86 0)
+				(at -22.86 55.88 180)
 				(length 2.54)
 				(name "A12#"
 					(effects
@@ -3345,7 +3345,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -33.02 0)
+				(at -22.86 45.72 180)
 				(length 2.54)
 				(name "A16#"
 					(effects
@@ -3362,8 +3362,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -825.5 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -3381,7 +3381,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -345.44 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3398,8 +3398,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -828.04 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -3417,7 +3417,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -347.98 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3434,8 +3434,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -830.58 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -3453,7 +3453,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -220.98 0)
+				(at -59.69 -10.16 0)
 				(length 2.54)
 				(name "D35#"
 					(effects
@@ -3471,7 +3471,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -350.52 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3488,8 +3488,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -833.12 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -3507,7 +3507,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -353.06 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3524,8 +3524,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -835.66 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -3543,7 +3543,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -355.6 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3560,8 +3560,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -838.2 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -3579,7 +3579,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -358.14 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3596,8 +3596,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -840.74 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -3615,7 +3615,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -99.06 0)
+				(at 39.37 53.34 0)
 				(length 2.54)
 				(name "BINIT#"
 					(effects
@@ -3633,7 +3633,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -360.68 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3650,8 +3650,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -843.28 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -3669,7 +3669,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -363.22 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -3687,7 +3687,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -215.9 0)
+				(at -59.69 -5.08 0)
 				(length 2.54)
 				(name "D33#"
 					(effects
@@ -3705,7 +3705,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -246.38 0)
+				(at -59.69 -35.56 0)
 				(length 2.54)
 				(name "D45#"
 					(effects
@@ -3723,7 +3723,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -256.54 0)
+				(at -59.69 -45.72 0)
 				(length 2.54)
 				(name "D49#"
 					(effects
@@ -3741,7 +3741,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -233.68 0)
+				(at -59.69 -22.86 0)
 				(length 2.54)
 				(name "D40#"
 					(effects
@@ -3759,7 +3759,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -281.94 0)
+				(at -59.69 -71.12 0)
 				(length 2.54)
 				(name "D59#"
 					(effects
@@ -3777,7 +3777,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -271.78 0)
+				(at -59.69 -60.96 0)
 				(length 2.54)
 				(name "D55#"
 					(effects
@@ -3795,7 +3795,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -269.24 0)
+				(at -59.69 -58.42 0)
 				(length 2.54)
 				(name "D54#"
 					(effects
@@ -3813,7 +3813,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -279.4 0)
+				(at -59.69 -68.58 0)
 				(length 2.54)
 				(name "D58#"
 					(effects
@@ -3831,7 +3831,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -259.08 0)
+				(at -59.69 -48.26 0)
 				(length 2.54)
 				(name "D50#"
 					(effects
@@ -3849,7 +3849,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -274.32 0)
+				(at -59.69 -63.5 0)
 				(length 2.54)
 				(name "D56#"
 					(effects
@@ -3867,7 +3867,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -312.42 0)
+				(at 39.37 2.54 0)
 				(length 2.54)
 				(name "DEP5#"
 					(effects
@@ -3884,8 +3884,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -845.82 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -3903,7 +3903,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -302.26 0)
+				(at 39.37 12.7 0)
 				(length 2.54)
 				(name "DEP1#"
 					(effects
@@ -3921,7 +3921,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -299.72 0)
+				(at 39.37 15.24 0)
 				(length 2.54)
 				(name "DEP0#"
 					(effects
@@ -3939,7 +3939,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -109.22 0)
+				(at 39.37 43.18 0)
 				(length 2.54)
 				(name "BPM0#"
 					(effects
@@ -3957,7 +3957,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -129.54 0)
+				(at 39.37 22.86 0)
 				(length 2.54)
 				(name "CPUPRES#"
 					(effects
@@ -3975,7 +3975,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -210.82 0)
+				(at -59.69 0 0)
 				(length 2.54)
 				(name "D31#"
 					(effects
@@ -3993,7 +3993,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -218.44 0)
+				(at -59.69 -7.62 0)
 				(length 2.54)
 				(name "D34#"
 					(effects
@@ -4011,7 +4011,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -223.52 0)
+				(at -59.69 -12.7 0)
 				(length 2.54)
 				(name "D36#"
 					(effects
@@ -4029,7 +4029,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -231.14 0)
+				(at -59.69 -20.32 0)
 				(length 2.54)
 				(name "D39#"
 					(effects
@@ -4047,7 +4047,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -238.76 0)
+				(at -59.69 -27.94 0)
 				(length 2.54)
 				(name "D42#"
 					(effects
@@ -4065,7 +4065,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -236.22 0)
+				(at -59.69 -25.4 0)
 				(length 2.54)
 				(name "D41#"
 					(effects
@@ -4083,7 +4083,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -264.16 0)
+				(at -59.69 -53.34 0)
 				(length 2.54)
 				(name "D52#"
 					(effects
@@ -4101,7 +4101,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -365.76 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4119,7 +4119,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -368.3 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4136,8 +4136,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -848.36 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4155,7 +4155,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -370.84 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4172,8 +4172,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -850.9 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4191,7 +4191,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -373.38 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4208,8 +4208,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -853.44 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4227,7 +4227,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -375.92 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4244,8 +4244,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -855.98 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4263,7 +4263,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -378.46 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4280,8 +4280,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -858.52 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4299,7 +4299,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -381 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4316,8 +4316,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -861.06 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4335,7 +4335,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -228.6 0)
+				(at -59.69 -17.78 0)
 				(length 2.54)
 				(name "D38#"
 					(effects
@@ -4353,7 +4353,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -198.12 0)
+				(at -59.69 12.7 0)
 				(length 2.54)
 				(name "D26#"
 					(effects
@@ -4371,7 +4371,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -383.54 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4388,8 +4388,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -863.6 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4407,7 +4407,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -386.08 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4424,8 +4424,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -866.14 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4443,7 +4443,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -388.62 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4461,16 +4461,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -617.22 0)
+				(at -24.13 -46.99 180)
 				(length 2.54)
-				(name ""
+				(name "Reserved"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "E21_Reserved_11_Reserved_for_future_use"
+				(number "E21"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4479,7 +4479,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -962.66 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -4497,7 +4497,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -289.56 0)
+				(at -59.69 -78.74 0)
 				(length 2.54)
 				(name "D62#"
 					(effects
@@ -4515,16 +4515,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -642.62 0)
+				(at 69.85 12.7 180)
 				(length 2.54)
-				(name ""
+				(name "SLEWCTRL"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "E27_SLEWCTRL_Power/Other"
+				(number "E27"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4533,7 +4533,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -314.96 0)
+				(at 39.37 0 0)
 				(length 2.54)
 				(name "DEP6#"
 					(effects
@@ -4551,7 +4551,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -195.58 0)
+				(at -59.69 15.24 0)
 				(length 2.54)
 				(name "D25#"
 					(effects
@@ -4569,7 +4569,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -309.88 0)
+				(at 39.37 5.08 0)
 				(length 2.54)
 				(name "DEP4#"
 					(effects
@@ -4587,7 +4587,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -916.94 0)
+				(at -24.13 -67.31 180)
 				(length 2.54)
 				(name "VREF"
 					(effects
@@ -4605,7 +4605,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -111.76 0)
+				(at 39.37 40.64 0)
 				(length 2.54)
 				(name "BPM1#"
 					(effects
@@ -4623,7 +4623,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -106.68 0)
+				(at 39.37 45.72 0)
 				(length 2.54)
 				(name "BP3#"
 					(effects
@@ -4641,16 +4641,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -698.5 0)
+				(at -24.13 -64.77 180)
 				(length 2.54)
-				(name ""
+				(name "VCCCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "E5_VCCCORE_Power/Other"
+				(number "E5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4659,7 +4659,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -391.16 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4677,16 +4677,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -701.04 0)
+				(at -24.13 -64.77 180)
 				(length 2.54)
-				(name ""
+				(name "VCCCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "E9_VCCCORE_Power/Other"
+				(number "E9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4695,16 +4695,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -612.14 0)
+				(at -24.13 -41.91 180)
 				(length 2.54)
-				(name ""
+				(name "Reserved"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "F10_Reserved_Reserved_for_future_use"
+				(number "F10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4713,7 +4713,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -200.66 0)
+				(at -59.69 10.16 0)
 				(length 2.54)
 				(name "D27#"
 					(effects
@@ -4731,16 +4731,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -703.58 0)
+				(at -24.13 -64.77 180)
 				(length 2.54)
-				(name ""
+				(name "VCCCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "F14_VCCCORE_Power/Other"
+				(number "F14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -4749,7 +4749,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -292.1 0)
+				(at -59.69 -81.28 0)
 				(length 2.54)
 				(name "D63#"
 					(effects
@@ -4767,7 +4767,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -919.48 0)
+				(at -24.13 -67.31 180)
 				(length 2.54)
 				(name "VREF"
 					(effects
@@ -4784,8 +4784,26 @@
 					)
 				)
 			)
+			(pin power_in line
+				(at -24.13 -64.77 180)
+				(length 2.54)
+				(name "VCCCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "F2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin bidirectional line
-				(at 0 -393.7 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4802,8 +4820,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -708.66 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4821,7 +4839,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -396.24 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4838,8 +4856,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -711.2 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4857,7 +4875,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -398.78 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4874,26 +4892,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -706.12 0)
-				(length 2.54)
-				(name ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "F2_VCCCORE_Power/Othe"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -713.74 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4911,7 +4911,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -401.32 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4928,8 +4928,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -716.28 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4947,7 +4947,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -403.86 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -4964,8 +4964,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -718.82 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -4983,7 +4983,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -213.36 0)
+				(at -59.69 -2.54 0)
 				(length 2.54)
 				(name "D32#"
 					(effects
@@ -5001,7 +5001,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -187.96 0)
+				(at -59.69 22.86 0)
 				(length 2.54)
 				(name "D22#"
 					(effects
@@ -5019,7 +5019,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -185.42 0)
+				(at -59.69 25.4 0)
 				(length 2.54)
 				(name "D21#"
 					(effects
@@ -5037,7 +5037,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -190.5 0)
+				(at -59.69 20.32 0)
 				(length 2.54)
 				(name "D23#"
 					(effects
@@ -5055,7 +5055,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -104.14 0)
+				(at 39.37 48.26 0)
 				(length 2.54)
 				(name "BP2#"
 					(effects
@@ -5073,7 +5073,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -952.5 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -5091,7 +5091,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -579.12 0)
+				(at -24.13 -11.43 180)
 				(length 2.54)
 				(name "Reserved"
 					(effects
@@ -5109,7 +5109,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -406.4 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5127,7 +5127,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -408.94 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5144,8 +5144,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -721.36 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -5163,7 +5163,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -411.48 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5180,8 +5180,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -723.9 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -5199,7 +5199,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -172.72 0)
+				(at -59.69 38.1 0)
 				(length 2.54)
 				(name "D16#"
 					(effects
@@ -5217,7 +5217,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -180.34 0)
+				(at -59.69 30.48 0)
 				(length 2.54)
 				(name "D19#"
 					(effects
@@ -5235,7 +5235,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -149.86 0)
+				(at -59.69 60.96 0)
 				(length 2.54)
 				(name "D7#"
 					(effects
@@ -5253,7 +5253,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -208.28 0)
+				(at -59.69 2.54 0)
 				(length 2.54)
 				(name "D30#"
 					(effects
@@ -5271,7 +5271,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -546.1 0)
+				(at 69.85 63.5 180)
 				(length 2.54)
 				(name "PICCLK"
 					(effects
@@ -5289,7 +5289,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -548.64 0)
+				(at 69.85 60.96 180)
 				(length 2.54)
 				(name "PICD0"
 					(effects
@@ -5307,7 +5307,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -561.34 0)
+				(at 69.85 48.26 180)
 				(length 2.54)
 				(name "PREQ#"
 					(effects
@@ -5324,8 +5324,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -726.44 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -5342,8 +5342,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -728.98 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -5360,8 +5360,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -731.52 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -5378,8 +5378,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -734.06 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -5397,7 +5397,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -414.02 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5415,7 +5415,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -922.02 0)
+				(at -24.13 -67.31 180)
 				(length 2.54)
 				(name "VREF"
 					(effects
@@ -5433,7 +5433,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -193.04 0)
+				(at -59.69 17.78 0)
 				(length 2.54)
 				(name "D24#"
 					(effects
@@ -5451,7 +5451,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -165.1 0)
+				(at -59.69 45.72 0)
 				(length 2.54)
 				(name "D13#"
 					(effects
@@ -5469,7 +5469,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -182.88 0)
+				(at -59.69 27.94 0)
 				(length 2.54)
 				(name "D20#"
 					(effects
@@ -5487,7 +5487,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -581.66 0)
+				(at -24.13 -13.97 180)
 				(length 2.54)
 				(name "Reserved"
 					(effects
@@ -5505,7 +5505,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -551.18 0)
+				(at 69.85 58.42 180)
 				(length 2.54)
 				(name "PICD1"
 					(effects
@@ -5523,7 +5523,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -541.02 0)
+				(at 39.37 -33.02 0)
 				(length 2.54)
 				(name "LINT1/NMI"
 					(effects
@@ -5541,7 +5541,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -416.56 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5559,7 +5559,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -419.1 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5576,8 +5576,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -736.6 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -5595,7 +5595,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -421.64 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5613,7 +5613,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -538.48 0)
+				(at 39.37 -30.48 0)
 				(length 2.54)
 				(name "LINT0/INTR"
 					(effects
@@ -5631,7 +5631,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -160.02 0)
+				(at -59.69 50.8 0)
 				(length 2.54)
 				(name "D11#"
 					(effects
@@ -5649,7 +5649,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -139.7 0)
+				(at -59.69 71.12 0)
 				(length 2.54)
 				(name "D3#"
 					(effects
@@ -5667,7 +5667,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -137.16 0)
+				(at -59.69 73.66 0)
 				(length 2.54)
 				(name "D2#"
 					(effects
@@ -5685,7 +5685,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -167.64 0)
+				(at -59.69 43.18 0)
 				(length 2.54)
 				(name "D14#"
 					(effects
@@ -5703,7 +5703,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -584.2 0)
+				(at -24.13 -16.51 180)
 				(length 2.54)
 				(name "Reserved"
 					(effects
@@ -5721,7 +5721,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -586.74 0)
+				(at -24.13 -19.05 180)
 				(length 2.54)
 				(name "Reserved"
 					(effects
@@ -5739,7 +5739,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -589.28 0)
+				(at -24.13 -21.59 180)
 				(length 2.54)
 				(name "Reserved"
 					(effects
@@ -5756,8 +5756,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -739.14 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -5774,8 +5774,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -741.68 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -5793,7 +5793,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -424.18 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5810,8 +5810,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -744.22 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -5829,7 +5829,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -426.72 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5847,7 +5847,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -177.8 0)
+				(at -59.69 33.02 0)
 				(length 2.54)
 				(name "D18#"
 					(effects
@@ -5865,7 +5865,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -154.94 0)
+				(at -59.69 55.88 0)
 				(length 2.54)
 				(name "D9#"
 					(effects
@@ -5883,7 +5883,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -162.56 0)
+				(at -59.69 48.26 0)
 				(length 2.54)
 				(name "D12#"
 					(effects
@@ -5901,7 +5901,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -157.48 0)
+				(at -59.69 53.34 0)
 				(length 2.54)
 				(name "D10#"
 					(effects
@@ -5919,7 +5919,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -591.82 0)
+				(at -24.13 -24.13 180)
 				(length 2.54)
 				(name "Reserved"
 					(effects
@@ -5937,7 +5937,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -594.36 0)
+				(at -24.13 -26.67 180)
 				(length 2.54)
 				(name "Reserved"
 					(effects
@@ -5955,7 +5955,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -596.9 0)
+				(at -24.13 -29.21 180)
 				(length 2.54)
 				(name "Reserved"
 					(effects
@@ -5973,7 +5973,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -492.76 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -5991,7 +5991,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -599.44 0)
+				(at -24.13 -31.75 180)
 				(length 2.54)
 				(name "Reserved"
 					(effects
@@ -6008,8 +6008,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -746.76 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -6027,7 +6027,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -495.3 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6044,8 +6044,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -749.3 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -6063,7 +6063,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -175.26 0)
+				(at -59.69 35.56 0)
 				(length 2.54)
 				(name "D17#"
 					(effects
@@ -6081,7 +6081,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -924.56 0)
+				(at -24.13 -67.31 180)
 				(length 2.54)
 				(name "VREF"
 					(effects
@@ -6099,7 +6099,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -152.4 0)
+				(at -59.69 58.42 0)
 				(length 2.54)
 				(name "D8#"
 					(effects
@@ -6117,7 +6117,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -144.78 0)
+				(at -59.69 66.04 0)
 				(length 2.54)
 				(name "D5#"
 					(effects
@@ -6135,7 +6135,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -965.2 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -6153,16 +6153,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -640.08 0)
+				(at 69.85 15.24 180)
 				(length 2.54)
-				(name ""
+				(name "RTTCTRL"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "S35_RTTCTRL_Power/Other"
+				(number "S35"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6171,7 +6171,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -967.74 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -6188,8 +6188,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -751.84 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -6206,8 +6206,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -754.38 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -6225,7 +6225,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -497.84 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6242,8 +6242,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -756.92 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -6261,7 +6261,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -500.38 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6279,7 +6279,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -134.62 0)
+				(at -59.69 76.2 0)
 				(length 2.54)
 				(name "D1#"
 					(effects
@@ -6297,7 +6297,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -147.32 0)
+				(at -59.69 63.5 0)
 				(length 2.54)
 				(name "D6#"
 					(effects
@@ -6315,7 +6315,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -142.24 0)
+				(at -59.69 68.58 0)
 				(length 2.54)
 				(name "D4#"
 					(effects
@@ -6333,7 +6333,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -170.18 0)
+				(at -59.69 40.64 0)
 				(length 2.54)
 				(name "D15#"
 					(effects
@@ -6351,7 +6351,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -556.26 0)
+				(at 69.85 53.34 180)
 				(length 2.54)
 				(name "PLL2"
 					(effects
@@ -6369,7 +6369,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -970.28 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -6387,7 +6387,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -972.82 0)
+				(at -24.13 -69.85 180)
 				(length 2.54)
 				(name "VTT"
 					(effects
@@ -6405,7 +6405,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -502.92 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6423,7 +6423,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -505.46 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6440,8 +6440,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -759.46 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -6459,7 +6459,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -508 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6476,8 +6476,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -762 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -6495,7 +6495,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -927.1 0)
+				(at -24.13 -67.31 180)
 				(length 2.54)
 				(name "VREF"
 					(effects
@@ -6513,7 +6513,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -132.08 0)
+				(at -59.69 78.74 0)
 				(length 2.54)
 				(name "D0#"
 					(effects
@@ -6531,7 +6531,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -81.28 0)
+				(at -22.86 0 180)
 				(length 2.54)
 				(name "A34#"
 					(effects
@@ -6549,7 +6549,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -553.72 0)
+				(at 69.85 55.88 180)
 				(length 2.54)
 				(name "PLL1"
 					(effects
@@ -6567,7 +6567,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -601.98 0)
+				(at -24.13 -34.29 180)
 				(length 2.54)
 				(name "Reserved"
 					(effects
@@ -6585,7 +6585,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -96.52 0)
+				(at 39.37 55.88 0)
 				(length 2.54)
 				(name "BCLK"
 					(effects
@@ -6602,8 +6602,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -764.54 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -6621,7 +6621,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -119.38 0)
+				(at 39.37 33.02 0)
 				(length 2.54)
 				(name "BR1#"
 					(effects
@@ -6639,25 +6639,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -619.76 0)
-				(length 2.54)
-				(name ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "X2_BR1#_8_AGTL+_Input"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 0 -510.54 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6675,16 +6657,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -614.68 0)
+				(at -24.13 -44.45 180)
 				(length 2.54)
-				(name ""
+				(name "Reserved"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "X34_Reserved_Reserved_for_future_use"
+				(number "X34"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6693,7 +6675,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -513.08 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6711,16 +6693,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -624.84 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
-				(name ""
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "X4_RESET2#_2_AGTL+_I/O"
+				(number "X4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6729,7 +6711,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -76.2 0)
+				(at -22.86 5.08 180)
 				(length 2.54)
 				(name "A32#"
 					(effects
@@ -6747,7 +6729,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -604.52 0)
+				(at -24.13 -36.83 180)
 				(length 2.54)
 				(name "Reserved"
 					(effects
@@ -6765,7 +6747,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -60.96 0)
+				(at -22.86 20.32 180)
 				(length 2.54)
 				(name "A26#"
 					(effects
@@ -6783,7 +6765,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -127 0)
+				(at 39.37 25.4 0)
 				(length 2.54)
 				(name "CLKREF"
 					(effects
@@ -6800,8 +6782,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -767.08 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -6819,7 +6801,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -515.62 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6837,7 +6819,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -518.16 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6855,7 +6837,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -520.7 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6872,8 +6854,8 @@
 					)
 				)
 			)
-			(pin bidirectional line
-				(at 0 -769.62 0)
+			(pin power_in line
+				(at -24.13 -64.77 180)
 				(length 2.54)
 				(name "VCCCORE"
 					(effects
@@ -6891,7 +6873,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -523.24 0)
+				(at -24.13 -59.69 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -6909,16 +6891,16 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -678.18 0)
+				(at -24.13 -49.53 180)
 				(length 2.54)
-				(name ""
+				(name "Reserved"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "Z36_VCC2.5_1_Power/Other"
+				(number "Z36"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6927,7 +6909,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -68.58 0)
+				(at -22.86 12.7 180)
 				(length 2.54)
 				(name "A29#"
 					(effects
@@ -6945,7 +6927,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 -38.1 0)
+				(at -22.86 40.64 180)
 				(length 2.54)
 				(name "A18#"
 					(effects
@@ -6960,6 +6942,30 @@
 							(size 1.27 1.27)
 						)
 					)
+				)
+			)
+		)
+		(symbol "PGA370_0_1"
+			(rectangle
+				(start -59.69 82.55)
+				(end -22.86 -86.36)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(rectangle
+				(start 39.37 73.66)
+				(end 69.85 -38.1)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
 				)
 			)
 		)

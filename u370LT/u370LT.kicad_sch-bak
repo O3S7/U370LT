@@ -44,44 +44,6 @@
 		)
 	)
 	(sheet
-		(at 16.51 53.34)
-		(size 26.67 13.97)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "a4baad9b-caac-478f-9716-ebe4db4038ce")
-		(property "Sheetname" "CPU"
-			(at 16.51 52.6284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "cpu.kicad_sch"
-			(at 16.51 67.8946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "u370LT"
-				(path "/9d7e6f17-465e-456f-9093-64606a000e00"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 16.51 34.29)
 		(size 27.94 11.43)
 		(fields_autoplaced yes)

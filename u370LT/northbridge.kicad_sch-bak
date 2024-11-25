@@ -11702,28 +11702,6 @@
 		)
 		(uuid "ff78370b-c317-440d-b910-3f4cea6567e8")
 	)
-	(global_label "HA[3..31]"
-		(shape input)
-		(at 54.61 97.79 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b47846f4-629f-4ade-ba16-6d5aa1d7e7e7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 66.5458 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
@@ -11759,7 +11737,7 @@
 			(justify left bottom)
 		)
 		(uuid "3efbe3f8-dfa5-4604-b00d-812f44f39a44")
-		(property "Netclass" "HA[3..31]"
+		(property "Netclass" "HA[1:31]"
 			(at 55.3085 102.87 0)
 			(effects
 				(font
